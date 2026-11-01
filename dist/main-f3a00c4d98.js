@@ -1,4 +1,4 @@
-import {blankState,progress,weight,choose,record,makeQuestion,shuffle,summarize,dayKey,validateState,DAY} from './scheduler-f7220dbd1f.js';
+import {blankState,progress,weight,choose,record,makeQuestion,shuffle,summarize,dayKey,validateState,DAY} from './scheduler-f3a00c4d98.js';
 const $=s=>document.querySelector(s),KEY='kiocvoca-progress-v1';
 const icons={close:'<path d="m6 6 12 12M18 6 6 18"/>',arrow:'<path d="m14 6 6 6-6 6M4 12h16"/>',left:'<path d="m10 6-6 6 6 6M4 12h16"/>',sound:'<path d="M11 5 6 9H3v6h3l5 4V5ZM15 8a6 6 0 0 1 0 8M18 5a10 10 0 0 1 0 14"/>',info:'<circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7v1"/>'};
 const icon=name=>`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${icons[name]||''}</svg>`;
@@ -24,7 +24,7 @@ function wireInstallLinks(){
   document.querySelectorAll('a[href="./KiocVoca.mobileconfig"]').forEach(link=>{
     if(installURL){link.href=installURL;link.download='KiocVoca.mobileconfig';}
     link.addEventListener('click',async e=>{
-      if(installURL)return;
+      if(installURL){link.href=installURL;link.download='KiocVoca.mobileconfig';return;}
       e.preventDefault();try{await prepareInstall();wireInstallLinks();toast('安装文件已准备好，请再点一次下载。');}catch{toast('安装文件加载失败，请联网重试。');}
     });
   });
@@ -208,7 +208,7 @@ document.addEventListener('visibilitychange',()=>{if(!document.hidden&&data){sta
 async function start(){
   try{
     prepareInstall().catch(()=>{});
-    const response=await fetch('./words-f7220dbd1f.json');if(!response.ok)throw Error('词库加载失败');data=await response.json();
+    const response=await fetch('./words-f3a00c4d98.json');if(!response.ok)throw Error('词库加载失败');data=await response.json();
     let saved;try{saved=localStorage.getItem(KEY)||localStorage.getItem('openwords-progress-v1');}catch{savingOK=false;}
     try{state=saved?validateState(JSON.parse(saved),data.words.map(w=>w.id)):blankState();}
     catch{state=blankState();savingOK=false;main.innerHTML='<div class="empty"><h2>学习记录需要恢复</h2><p>本机记录格式异常，已保留原始数据。请先下载原始备份，再重新开始。</p><button class="text-button" id="rescue">下载原始备份</button><button class="text-button" id="restart">以新记录开始</button></div>';$('#rescue').onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([saved],{type:'application/json'}));a.download='KiocVoca-recovery.json';a.click();};$('#restart').onclick=()=>{save();refreshPool();theme();navigate('learn');};return;}

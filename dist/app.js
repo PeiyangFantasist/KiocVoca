@@ -24,7 +24,7 @@ function wireInstallLinks(){
   document.querySelectorAll('a[href="./KiocVoca.mobileconfig"]').forEach(link=>{
     if(installURL){link.href=installURL;link.download='KiocVoca.mobileconfig';}
     link.addEventListener('click',async e=>{
-      if(installURL)return;
+      if(installURL){link.href=installURL;link.download='KiocVoca.mobileconfig';return;}
       e.preventDefault();try{await prepareInstall();wireInstallLinks();toast('安装文件已准备好，请再点一次下载。');}catch{toast('安装文件加载失败，请联网重试。');}
     });
   });

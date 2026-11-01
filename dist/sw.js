@@ -1,5 +1,5 @@
-const CACHE='kiocvoca-a1ec9f4ecaa4';
-const FILES=['./','./index.html','./ui-f7220dbd1f.css','./main-f7220dbd1f.js','./scheduler-f7220dbd1f.js','./words-f7220dbd1f.json','./icon.svg','./icon-192.png','./icon-512.png','./manifest.webmanifest','./KiocVoca.mobileconfig'];
+const CACHE='kiocvoca-8215babf2b90';
+const FILES=['./','./index.html','./ui-f3a00c4d98.css','./main-f3a00c4d98.js','./scheduler-f3a00c4d98.js','./words-f3a00c4d98.json','./icon.svg','./icon-192.png','./icon-512.png','./manifest.webmanifest','./KiocVoca.mobileconfig'];
 self.addEventListener('install',event=>event.waitUntil((async()=>{
   const cache=await caches.open(CACHE);
   for(const path of FILES){
@@ -7,7 +7,7 @@ self.addEventListener('install',event=>event.waitUntil((async()=>{
     const response=await fetch(request);
     if(!response.ok||new URL(response.url).origin!==self.location.origin)throw Error('Offline cache needs an authenticated response');
     if(path==='./index.html' && !(await response.clone().text()).includes('<title>KiocVoca'))throw Error('Not the application document');
-    if(path==='./words-f7220dbd1f.json' && !(await response.clone().json()).words?.length)throw Error('Not the vocabulary data');
+    if(path==='./words-f3a00c4d98.json' && !(await response.clone().json()).words?.length)throw Error('Not the vocabulary data');
     await cache.put(request,response);
   }
   await self.skipWaiting();
