@@ -1,0 +1,711 @@
+# 增强与促进
+reinforce|strengthen
+facilitate|make easier
+flourish|thrive
+revive|bring back
+nurture|help grow
+foster|help develop|培养；促进
+consolidate|strengthen|巩固；加强
+stimulate|encourage|刺激；促进
+spur|encourage|激励；促进
+# 引起与推动
+induce|cause
+arouse|awaken
+provoke|cause reaction
+breed|cause
+trigger|set off|触发；引起
+stir|arouse|激起；搅动
+evoke|bring back|唤起；引起
+impetus|driving force|推动力
+incentive|motivation|激励；诱因
+# 推断与结论
+deduce|infer
+infer|work out
+conclude|decide
+speculate|guess
+attribute|ascribe
+underlie|form basis
+presumably|probably
+plausible|believable
+# 理解与察觉
+perceive|notice
+detect|discover
+discern|notice|辨别；看出
+assimilate|take in
+digest|understand
+enlighten|inform
+illuminate|make clear
+orient|help adjust
+# 表达与说明
+convey|communicate
+impart|teach
+articulate|express clearly
+elaborate|explain further
+depict|portray
+specify|state clearly
+assert|state firmly
+affirm|confirm|肯定；确认
+proclaim|announce|宣布；宣告
+# 思考与构想
+entertain|consider
+ponder|think deeply
+contemplate|consider|思考；考虑
+conceive|imagine
+envisage|imagine|设想；展望
+formulate|devise
+contrive|devise
+notion|idea
+proposition|proposal|提议；主张
+# 判断与检验
+assess|evaluate
+inspect|examine
+scrutiny|close examination|仔细检查；审视
+probe|investigation|调查；探查
+criterion|standard
+accuracy|correctness
+rigorous|strict
+thorough|complete
+# 计划与意向
+intend|plan
+anticipate|expect|预期；预计
+prospect|possibility
+outlook|future view
+perspective|viewpoint
+provision|preparation
+preliminary|initial
+tactic|strategy|策略；手段
+# 努力与追求
+endeavor|effort
+strive|try hard
+pursue|chase
+dedicate|devote
+exert|apply effort
+toil|hard work
+aspire|aim high|渴望；立志
+keen|eager
+resolute|determined
+# 开始与执行
+initiate|begin
+conduct|carry out
+implement|carry out|实施；执行
+inaugurate|formally open|正式开始；为…揭幕
+undertake|take on
+engage|involve
+enroll|sign up
+recruit|enlist|招募；吸收
+# 限制与约束
+confine|restrict
+constrain|limit
+restrain|hold back
+suppress|hold down
+curb|limit|抑制；控制
+inhibit|hold back|抑制；阻止
+refrain|avoid
+cling|hold tightly
+grip|firm hold
+# 阻碍与困难
+setback|reversal
+obstacle|barrier|障碍
+obstruct|block|阻挡；妨碍
+hamper|hinder|妨碍；阻碍
+hinder|hold back|阻碍；妨碍
+interfere|disrupt
+handicap|disadvantage|不利条件；障碍
+preclude|prevent
+dilemma|difficult choice|困境；两难
+# 停止与移除
+halt|stop
+discard|throw away
+dispose|get rid
+dismiss|reject
+extract|take out
+eject|throw out
+expel|force out
+extinguish|put out|熄灭；扑灭
+# 恢复与修补
+restore|repair
+renovate|renew
+refine|improve
+rectify|correct
+remedy|solution|补救办法；疗法
+overhaul|major repair|彻底检修；大修
+redeem|make amends|弥补；挽回
+reclaim|restore land|开垦；收回
+# 损害与恶化
+spoil|ruin
+deteriorate|worsen
+crush|destroy
+impair|damage|损害；削弱
+cripple|disable|严重损害；使残废
+paralyze|disable|使瘫痪；使无法运作
+undermine|weaken|逐渐削弱；破坏
+aggravate|worsen|加重；恶化
+contaminate|pollute
+distort|twist facts
+# 揭露与隐藏
+reveal|show
+disclose|make known
+conceal|hide
+withhold|hold back
+disguise|hide|掩饰；伪装
+blur|make unclear
+implicit|implied
+explicit|clearly stated
+# 清晰与复杂
+coherent|logical
+concise|brief
+obscure|unclear
+intricate|complex
+sophisticated|complex|复杂精巧的；先进的
+primitive|basic
+crude|rough
+subtle|delicate
+# 虚假与误导
+deceit|deception
+fraud|cheating
+fabricate|make up|捏造；编造
+forge|fake|伪造
+manipulate|control unfairly
+exaggerate|overstate|夸大
+allege|claim|声称；断言（未证实）
+stereotype|fixed idea
+# 真实与可靠
+authentic|genuine|真实的；真品的
+sensible|wise
+prudent|careful|谨慎的；审慎的
+shrewd|clever|精明的；判断敏锐的
+competent|capable
+proficiency|skill
+feasible|possible
+decent|acceptable
+# 增多与减少
+exceed|go beyond
+surpass|outdo|超过；胜过
+accumulate|collect|积累；积聚
+diminish|decrease|减少；减弱
+compress|squeeze|压缩
+condense|shorten|浓缩；简缩
+amplify|make louder|放大；增强
+escalate|intensify|升级；加剧
+# 丰富与匮乏
+adequate|enough
+sufficient|enough
+abundant|plentiful
+surplus|extra
+excess|surplus
+redundant|unnecessary
+scarce|rare
+deficiency|shortage
+deficit|shortfall|赤字；不足额
+# 大小与程度
+tremendous|huge
+substantial|large
+extensive|wide
+intensive|concentrated
+utmost|greatest
+exceedingly|extremely
+trivial|minor
+bulk|main part|大部分；大量
+extent|degree
+scope|range
+# 重要与核心
+ultimate|final
+imperative|essential|极其重要的；必要的
+integral|essential|不可或缺的
+intrinsic|inherent
+inherent|built in|固有的；内在的
+essence|core
+staple|basic
+predominant|dominant|占主导的；盛行的
+subordinate|lower ranking|次要的；下属的
+# 相同与差异
+mutual|shared
+reciprocal|mutual|相互的；互惠的
+resemblance|similarity
+distinct|different
+contrast|difference
+analogy|comparison|类比；相似
+correspond|match
+respective|individual
+counterpart|equivalent|对应的人或物
+# 顺序与时间
+precede|come before
+subsequent|later
+successive|consecutive|连续的；相继的
+predecessor|former holder|前任；前身
+simultaneous|concurrent
+coincide|happen together
+instantaneous|immediate
+abrupt|sudden|突然的；意外的
+contemporary|modern
+# 持续与变化
+constant|continuous
+perpetual|endless
+chronic|long lasting
+durable|long lasting
+steady|stable
+persist|continue
+transient|temporary
+fluctuate|vary
+transition|change
+recur|happen again
+elapse|pass
+linger|stay|逗留；迟迟不去
+# 进展与结果
+fruitful|productive
+triumph|victory|胜利；巨大成功
+prevail|win
+conquer|overcome|战胜；克服
+cope|manage
+stride|long step|大步；重大进展
+overwhelm|overpower
+inevitable|unavoidable
+# 合作与支持
+collaborate|cooperate
+ally|supporter|盟友；支持者
+solidarity|unity|团结；一致
+patron|supporter
+favorable|supportive
+complement|complete
+supplement|add to|补充；增补
+incorporate|include|纳入；包含
+comprise|include
+# 同意与遵循
+consent|permission
+conform|comply
+adhere|stick to
+comply|obey
+obedient|dutiful
+accord|agreement
+abide|obey|遵守（abide by）
+concede|admit|承认；让步
+confess|admit
+# 反对与争论
+objection|protest
+controversy|dispute
+dispute|argument|争论；纠纷
+refute|disprove
+defy|disobey
+veto|reject
+condemn|criticize|谴责
+rebel|resist|反抗；造反
+contend|compete
+# 命令与义务
+compulsory|required
+oblige|require
+compel|force|迫使；强迫
+impose|force on|强加；施加
+assign|allocate
+designate|appoint
+liable|responsible|负有法律责任的
+entail|involve|使需要；必然涉及
+exempt|free from|免除；豁免
+# 组织与领导
+preside|chair
+supervise|oversee
+commission|committee
+conference|meeting
+principal|school head
+faculty|teaching staff
+deputy|assistant leader|副职；代理人
+regime|government|政权；统治体制
+reign|rule|统治；统治时期
+charter|rule document|章程；宪章
+# 商业与交易
+commerce|trade
+retail|shop sales
+transaction|deal
+bid|offer
+auction|public sale|拍卖
+monopoly|sole control|垄断
+patent|invention right
+exploit|use unfairly
+investment|money invested|投资；投资额
+# 金钱与收支
+invest|fund
+installment|part payment
+mortgage|home loan
+deposit|pay in
+discharge|pay off
+deduct|subtract
+revenue|income|收入；营收
+expenditure|spending
+gross|total
+dividend|share profit|股息；红利
+levy|charge tax|征收（税费）
+subsidy|financial aid|补贴；补助
+grant|funding
+allowance|regular payment|津贴；零用钱
+pension|retirement pay|养老金；退休金
+default|fail payment|违约；拖欠债务
+offset|balance out|抵消；弥补
+toll|road fee|通行费；代价
+# 法律与证据
+exhibit|displayed item
+verdict|court decision
+convict|find guilty|判定有罪
+testimony|evidence
+clue|hint
+warrant|legal order
+bail|conditional release
+sue|take to court
+prosecute|charge legally
+uphold|maintain|维持（判决）；维护
+breach|violation|违反；违约
+# 处罚与犯罪
+penalty|punishment
+sanction|penalty
+corrupt|dishonest|腐败的；贪污的
+bribe|illegal payment|贿赂
+scandal|disgrace
+abuse|misuse
+hijack|seize vehicle
+hostage|captive
+pirate|sea robber
+prey|victim
+# 危险与伤害
+fatal|deadly
+mortal|not immortal
+hazard|danger|危险；隐患
+menace|threat|威胁；危险的人或事
+adverse|harmful|不利的；有害的
+formidable|daunting
+vulnerable|unprotected
+susceptible|easily affected
+prone|inclined
+contagious|infectious
+# 身体与健康
+fatigue|tiredness
+vigorous|energetic
+feeble|weak
+flesh|body tissue
+bleed|lose blood
+inject|give injection
+prescribe|order medicine
+alleviate|ease
+sensation|feeling|感觉；感受
+starve|go hungry|挨饿；饿死
+# 担忧与悲伤
+distress|anguish
+tension|stress
+strain|pressure
+despair|hopelessness
+grief|sorrow
+gloomy|sad
+bleak|hopeless|黯淡的；无望的
+dread|fear|恐惧；担忧
+mourn|grieve|哀悼；悲伤
+moan|complain|抱怨；呻吟
+groan|low cry|呻吟；叹息
+# 愤怒与威吓
+resent|feel bitter
+outrage|anger
+indignant|angry
+hostile|unfriendly
+intimidate|threaten
+irritate|annoy|激怒；使不适
+startle|surprise|使惊吓；使吃惊
+agitate|campaign|鼓动；搅动
+frustrate|discourage
+# 残酷与轻蔑
+arrogant|proud
+vulgar|rude
+sarcastic|mocking
+mock|ridicule|嘲笑；戏弄
+satire|mocking humor
+contempt|disrespect|轻蔑；蔑视
+ruthless|merciless|无情的；残忍的
+brutal|cruel|残暴的；野蛮的
+harsh|severe|严厉的；刺耳的
+nasty|unpleasant|令人厌恶的；恶劣的
+boast|brag|吹嘘；自夸
+# 赞赏与尊重
+gratitude|thanks
+commend|praise
+flatter|praise falsely
+acclaim|public praise|称赞；喝彩
+esteem|respect|尊重；好评
+prestige|high standing|声望；威信
+dignity|self respect|尊严；庄重
+thrill|excitement
+beam|smile brightly|微笑；眉开眼笑
+# 愿望与态度
+desirable|wanted
+reluctant|unwilling
+indifferent|uninterested
+readily|willingly
+spontaneous|unplanned
+impulse|sudden urge|冲动
+temptation|strong desire|诱惑
+indulge|treat yourself
+lean|incline|倾向；倚靠
+consensus|agreement|共识；一致意见
+# 奇特与显眼
+absurd|ridiculous
+peculiar|odd
+exotic|foreign
+bizarre|strange|古怪的；异乎寻常的
+weird|strange|奇怪的；怪异的
+striking|noticeable
+conspicuous|obvious
+prominent|well known
+notorious|infamous|臭名昭著的
+fancy|decorative
+# 困惑与无知
+perplex|confuse|使困惑；使难解
+bewilder|confuse|使迷惑；使不知所措
+ignorance|not knowing
+suspicious|doubtful
+prejudice|bias|偏见；成见
+intrigue|interest|激起好奇心；引起兴趣
+blunder|serious mistake|严重错误；大错
+faulty|defective
+flaw|defect
+# 谦慎与品质
+rigid|inflexible
+stern|strict|严厉的；严肃的
+hasty|rushed
+punctual|on time
+slack|careless
+tedious|boring
+clumsy|awkward
+inferior|worse
+lame|unconvincing|站不住脚的；跛的
+blunt|direct|直言不讳的；生硬的
+# 请求与承诺
+plea|appeal|恳求；请求
+petition|written request|请愿书；正式请求
+pledge|promise|承诺；保证
+concession|compromise|让步；妥协
+counsel|advice
+convince|persuade
+preach|urge|宣讲；说教
+amend|revise|修改；修订
+# 教育与研究
+scholar|academic
+intellectual|mental
+specialist|expert
+thesis|research paper
+refresh|review
+orientation|introduction
+census|population count
+editorial|opinion article
+bulletin|news report
+narrative|story
+correspondence|letters
+# 组成与特征
+constituent|component
+ingredient|component
+fragment|piece
+category|class
+catalog|list
+synthesis|combination
+trait|characteristic
+integrity|wholeness|完整；正直
+integrate|combine|使结合；整合
+array|arrangement|一系列；阵列
+synthetic|artificial
+raw|unprocessed
+# 创作与装饰
+carve|cut shapes
+mold|shape
+furnish|equip
+ornament|decoration
+artefact|ancient object|人工制品；文物
+stain|dirty mark
+scratch|thin mark|划痕；刮擦
+reproduce|copy
+endow|give
+# 遗产与家庭
+inherit|receive property
+heir|inheritor
+legacy|inheritance
+estate|inheritance|遗产；财产
+marital|marriage related|婚姻的
+tribe|clan|部落；族群
+commemorate|honor memory|纪念
+ritual|ceremony|仪式；惯例
+worship|revere|敬神；崇拜
+superstition|magic belief|迷信
+# 群体与活动
+spectator|onlooker
+spectacle|public show|壮观场面；奇观
+contest|competition
+relay|team race
+ballot|vote
+rally|gather support|召集；集会
+assemble|gather|集合；装配
+assembly|gathering|集会；装配
+procession|parade|队伍；行列
+# 自然与生存
+conservation|protection
+habitat|natural home|栖息地
+dwell|live|居住
+instinct|natural drive|本能；直觉
+predator|hunter|捕食者
+bait|animal lure|诱饵
+lure|attract|引诱；诱惑
+herd|animal group|兽群；畜群
+flock|bird group|鸟群；羊群
+swarm|insect group|虫群；蜂群
+bloom|flower|开花；繁荣
+hatch|emerge|孵化；破壳
+# 移动与方向
+motion|movement
+flee|escape
+retreat|withdraw
+drift|float
+crawl|creep|爬行；缓慢移动
+leap|jump|跳跃；飞跃
+hop|small jump|单脚跳；小跳
+stumble|trip|绊倒；跌跌撞撞
+descend|go down|下降；下来
+elevate|raise|提高；抬升
+divert|redirect|使转向；转移
+steer|guide|驾驶；引导
+# 分散与离开
+scatter|spread out|散开；撒播
+disperse|scatter|散开；疏散
+vanish|disappear|消失；不复存在
+depart|leave|离开
+resign|quit
+dispatch|send
+snatch|grab
+fling|throw|猛扔；抛
+# 交通与运输
+expedition|journey
+commute|travel regularly|通勤
+shuttle|regular transport|班车；往返运输
+cargo|goods|货物
+freight|goods transport|货运；运费
+bypass|detour|绕行道路；绕过
+pave|surface road|铺路
+slot|reserved time|时间段；狭槽
+span|time range
+loom|threaten|隐约逼近；似将发生
+# 工具与构造
+apparatus|equipment
+appliance|device
+handy|useful
+gear|toothed wheel|齿轮；装置
+screw|fastener|螺丝；拧紧
+circuit|electric loop|电路；环路
+erect|build
+compact|space saving|紧凑的；小巧的
+interior|inside
+enclosure|fenced area
+# 水与浸润
+immerse|dip into|浸入；沉浸
+soak|make wet|浸泡；浸透
+saturate|soak completely|使浸透；使饱和
+drain|empty water|排水；流走
+spill|overflow|溢出；洒出
+spray|fine droplets
+permeate|spread through
+irrigate|water land|灌溉
+swamp|wetland|沼泽；使淹没
+ebb|falling tide
+# 速度与波动
+plunge|drop sharply
+soar|rise sharply|飞升；猛涨
+surge|sudden rise|激增；涌动
+steep|sharp
+blast|strong burst
+turmoil|chaos|混乱；动荡
+turbulent|rough|动荡的；湍急的
+shatter|smash|粉碎；破裂
+tremble|shake|颤抖；发抖
+# 动作与处理
+propel|push forward
+revolve|rotate
+twist|turn|扭转；转动
+loosen|make loose|松开；放松
+undo|reverse|撤销；解开
+wrap|cover|包裹；缠绕
+plug|block hole|堵塞；塞子
+insulate|protect|使绝缘；使隔热
+harness|use power|利用；控制
+reap|harvest|收割；获得
+# 对抗与干预
+combat|fight|战斗；对抗
+assault|attack|攻击；袭击
+invasion|armed entry|入侵；侵略
+raid|sudden attack|突袭；搜查
+militant|combative|好战的；激进的
+intervene|step in|干预；介入
+intrude|enter unwelcome|闯入；打扰
+repel|drive away
+withstand|resist|承受；抵挡
+patrol|safety watch
+deprive|take away|剥夺
+# 光线与标志
+dim|dark
+glow|soft light|柔光；发光
+flare|sudden flame|骤燃；闪耀
+eclipse|blocked light
+herald|signal|预示；宣告
+indicative|suggestive
+threshold|starting level
+verge|brink|边缘；即将
+# 位置与背景
+cradle|birthplace
+context|background
+sector|area
+status|standing
+occasion|event
+resort|holiday place
+summit|peak|山顶；峰会
+lodge|small house|小屋；暂住
+# 逻辑与连接
+thereby|thus
+accordingly|therefore
+nevertheless|however
+whereas|while
+conversely|oppositely
+likewise|similarly
+lest|to avoid
+spite|despite
+sake|benefit
+versus|against
+irrespective|regardless
+# 使用与获取
+avail|make use|利用（avail oneself of）
+derive|get from|取得；源自
+dine|eat|进餐
+retain|keep|保留
+retention|keeping
+eligible|qualified
+disposal|removal|清除；处理
+dischargeable|payable|可清偿的
+# 奇特与显眼
+commonplace|ordinary
+# 对抗与干预
+confront|face
+# 商业与交易
+contract|agreement
+recession|economic decline
+# 大小与程度
+extravagant|lavish
+# 表达与说明
+instance|example
+transmit|send
+exclaim|cry out
+confer|discuss|商谈；授予
+# 虚假与误导
+plot|secret plan
+# 持续与变化
+radical|fundamental
+# 恢复与修补
+resolve|settle
+# 教育与研究
+skim|read quickly
+# 限制与约束
+detain|hold
+# 相同与差异
+overlap|partly coincide
+# 反对与争论
+overturn|reverse
+# 危险与伤害
+drastic|severe|剧烈的；严厉的
+# 引起与推动
+render|make|使成为；给予

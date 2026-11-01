@@ -1,0 +1,1 @@
+{"name":"kiocvoca","version":"1.0.0","private":true,"type":"module","scripts":{"test":"node --test tests/*.test.mjs","serve":"node tools/serve.mjs","build":"python tools/build-data.py && python tools/package.py"}}

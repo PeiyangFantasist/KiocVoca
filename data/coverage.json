@@ -1,0 +1,5719 @@
+{
+  "sourceEntries": 623,
+  "cards": 643,
+  "groups": {
+    "上升与抬高": 2,
+    "下降与回落": 3,
+    "不愿与漠然": 2,
+    "不足与匮乏": 3,
+    "交通与运输": 10,
+    "位置与背景": 8,
+    "使用与获取": 5,
+    "停止与终止": 2,
+    "充足与富余": 7,
+    "光线与标志": 8,
+    "兴奋与喜悦": 2,
+    "减少与压缩": 3,
+    "分散与离开": 7,
+    "创作与装饰": 10,
+    "判断与检验": 8,
+    "动作与处理": 10,
+    "努力与追求": 8,
+    "区分与分别": 4,
+    "危险与伤害": 11,
+    "原始与粗糙": 2,
+    "反对与争论": 12,
+    "变化与流逝": 4,
+    "合作与支持": 9,
+    "同意与遵循": 9,
+    "命令与义务": 10,
+    "商业与交易": 11,
+    "困惑与无知": 9,
+    "增强与促进": 9,
+    "增长与超越": 5,
+    "处罚与犯罪": 10,
+    "复杂与晦涩": 3,
+    "大小与程度": 10,
+    "奇特与异常": 5,
+    "对抗与干预": 12,
+    "工具与构造": 10,
+    "平常与基本": 2,
+    "开始与执行": 8,
+    "引起与推动": 10,
+    "微小与细微": 2,
+    "思考与构想": 9,
+    "恢复与修补": 10,
+    "愤怒与威吓": 9,
+    "愿望与态度": 2,
+    "担忧与悲伤": 11,
+    "持续与持久": 7,
+    "损害与恶化": 10,
+    "推断与结论": 9,
+    "揭露与隐藏": 8,
+    "教育与研究": 13,
+    "显著与知名": 4,
+    "残酷与轻蔑": 11,
+    "水与浸润": 9,
+    "法律与证据": 12,
+    "清晰与简洁": 3,
+    "渴望与冲动": 6,
+    "理解与察觉": 8,
+    "相似与对应": 7,
+    "真实与可靠": 8,
+    "短暂与瞬时": 2,
+    "移动与方向": 6,
+    "移除与丢弃": 6,
+    "组成与特征": 12,
+    "组织与领导": 10,
+    "群体与活动": 9,
+    "自然与生存": 12,
+    "自然与自愿": 2,
+    "虚假与误导": 9,
+    "表达与说明": 14,
+    "计划与意向": 9,
+    "请求与承诺": 8,
+    "谦慎与品质": 10,
+    "赞赏与尊重": 7,
+    "跳跃与步行": 5,
+    "身体与健康": 11,
+    "进展与结果": 8,
+    "速度与波动": 7,
+    "逻辑与连接": 11,
+    "遗产与家庭": 10,
+    "重复与接续": 3,
+    "重要与核心": 8,
+    "金钱与收支": 18,
+    "阻碍与困难": 9,
+    "限制与约束": 10,
+    "顺序与时间": 6
+  },
+  "entries": [
+    {
+      "book": 1,
+      "label": "accordingly",
+      "page": "12",
+      "sourceEntry": "1:accordingly",
+      "cards": [
+        "accordingly"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "accuracy",
+      "page": "08",
+      "sourceEntry": "1:accuracy",
+      "cards": [
+        "accuracy"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "adequate",
+      "page": "08",
+      "sourceEntry": "1:adequate",
+      "cards": [
+        "adequate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "adhere",
+      "page": "06",
+      "sourceEntry": "1:adhere",
+      "cards": [
+        "adhere"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "alleviate",
+      "page": "08",
+      "sourceEntry": "1:alleviate",
+      "cards": [
+        "alleviate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "apparatus",
+      "page": "16",
+      "sourceEntry": "1:apparatus",
+      "cards": [
+        "apparatus"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "appliance",
+      "page": "06",
+      "sourceEntry": "1:appliance",
+      "cards": [
+        "appliance"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "arouse",
+      "page": "10",
+      "sourceEntry": "1:arouse",
+      "cards": [
+        "arouse"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "arrogant",
+      "page": "14",
+      "sourceEntry": "1:arrogant",
+      "cards": [
+        "arrogant"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "assert",
+      "page": "10",
+      "sourceEntry": "1:assert",
+      "cards": [
+        "assert"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "assess",
+      "page": "04",
+      "sourceEntry": "1:assess",
+      "cards": [
+        "assess"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "assign",
+      "page": "04",
+      "sourceEntry": "1:assign",
+      "cards": [
+        "assign"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "assimilate",
+      "page": "14",
+      "sourceEntry": "1:assimilate",
+      "cards": [
+        "assimilate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "attribute",
+      "page": "10",
+      "sourceEntry": "1:attribute",
+      "cards": [
+        "attribute"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "ballot",
+      "page": "16",
+      "sourceEntry": "1:ballot",
+      "cards": [
+        "ballot"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "bid",
+      "page": "06",
+      "sourceEntry": "1:bid",
+      "cards": [
+        "bid"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "census",
+      "page": "06",
+      "sourceEntry": "1:census",
+      "cards": [
+        "census"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "cling",
+      "page": "12",
+      "sourceEntry": "1:cling",
+      "cards": [
+        "cling"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "clumsy",
+      "page": "14",
+      "sourceEntry": "1:clumsy",
+      "cards": [
+        "clumsy"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "coherent",
+      "page": "04",
+      "sourceEntry": "1:coherent",
+      "cards": [
+        "coherent"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "collaborate",
+      "page": "04",
+      "sourceEntry": "1:collaborate",
+      "cards": [
+        "collaborate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "commerce",
+      "page": "06",
+      "sourceEntry": "1:commerce",
+      "cards": [
+        "commerce"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "commonplace",
+      "page": "14",
+      "sourceEntry": "1:commonplace",
+      "cards": [
+        "commonplace"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "competent",
+      "page": "04",
+      "sourceEntry": "1:competent",
+      "cards": [
+        "competent"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "compulsory",
+      "page": "04",
+      "sourceEntry": "1:compulsory",
+      "cards": [
+        "compulsory"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "conceal",
+      "page": "10",
+      "sourceEntry": "1:conceal",
+      "cards": [
+        "conceal"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "concise",
+      "page": "04",
+      "sourceEntry": "1:concise",
+      "cards": [
+        "concise"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "conclude",
+      "page": "04",
+      "sourceEntry": "1:conclude",
+      "cards": [
+        "conclude"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "conduct",
+      "page": "04",
+      "sourceEntry": "1:conduct",
+      "cards": [
+        "conduct"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "confess",
+      "page": "10",
+      "sourceEntry": "1:confess",
+      "cards": [
+        "confess"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "confine",
+      "page": "08",
+      "sourceEntry": "1:confine",
+      "cards": [
+        "confine"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "conform",
+      "page": "16",
+      "sourceEntry": "1:conform",
+      "cards": [
+        "conform"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "confront",
+      "page": "08",
+      "sourceEntry": "1:confront",
+      "cards": [
+        "confront"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "consent / consensus",
+      "page": "16",
+      "sourceEntry": "1:consent",
+      "cards": [
+        "consent",
+        "consensus"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "conservation",
+      "page": "12",
+      "sourceEntry": "1:conservation",
+      "cards": [
+        "conservation"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "constant",
+      "page": "12",
+      "sourceEntry": "1:constant",
+      "cards": [
+        "constant"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "contagious",
+      "page": "08",
+      "sourceEntry": "1:contagious",
+      "cards": [
+        "contagious"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "contemporary",
+      "page": "14",
+      "sourceEntry": "1:contemporary",
+      "cards": [
+        "contemporary"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "contend",
+      "page": "14",
+      "sourceEntry": "1:contend",
+      "cards": [
+        "contend"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "contest",
+      "page": "14",
+      "sourceEntry": "1:contest",
+      "cards": [
+        "contest"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "contract",
+      "page": "06",
+      "sourceEntry": "1:contract",
+      "cards": [
+        "contract"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "contrast",
+      "page": "16",
+      "sourceEntry": "1:contrast",
+      "cards": [
+        "contrast"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "controversy / controversial",
+      "page": "10",
+      "sourceEntry": "1:controversy",
+      "cards": [
+        "controversy",
+        "controversial"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "conversely",
+      "page": "10",
+      "sourceEntry": "1:conversely",
+      "cards": [
+        "conversely"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "convey",
+      "page": "08",
+      "sourceEntry": "1:convey",
+      "cards": [
+        "convey"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "convince",
+      "page": "10",
+      "sourceEntry": "1:convince",
+      "cards": [
+        "convince"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "cope",
+      "page": "08",
+      "sourceEntry": "1:cope",
+      "cards": [
+        "cope"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "cradle",
+      "page": "12",
+      "sourceEntry": "1:cradle",
+      "cards": [
+        "cradle"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "dedicate",
+      "page": "04",
+      "sourceEntry": "1:dedicate",
+      "cards": [
+        "dedicate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "deduce",
+      "page": "10",
+      "sourceEntry": "1:deduce",
+      "cards": [
+        "deduce"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "deduct",
+      "page": "06",
+      "sourceEntry": "1:deduct",
+      "cards": [
+        "deduct"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "deficiency",
+      "page": "08",
+      "sourceEntry": "1:deficiency",
+      "cards": [
+        "deficiency"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "designate",
+      "page": "16",
+      "sourceEntry": "1:designate",
+      "cards": [
+        "designate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "desirable",
+      "page": "04",
+      "sourceEntry": "1:desirable",
+      "cards": [
+        "desirable"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "deteriorate",
+      "page": "08",
+      "sourceEntry": "1:deteriorate",
+      "cards": [
+        "deteriorate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "digest",
+      "page": "16",
+      "sourceEntry": "1:digest",
+      "cards": [
+        "digest"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "discard",
+      "page": "06",
+      "sourceEntry": "1:discard",
+      "cards": [
+        "discard"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "discharge",
+      "page": "06",
+      "sourceEntry": "1:discharge",
+      "cards": [
+        "discharge"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "disclose",
+      "page": "10",
+      "sourceEntry": "1:disclose",
+      "cards": [
+        "disclose"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "dismiss",
+      "page": "16",
+      "sourceEntry": "1:dismiss",
+      "cards": [
+        "dismiss"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "dispose / disposal",
+      "page": "08",
+      "sourceEntry": "1:dispose",
+      "cards": [
+        "dispose",
+        "disposal"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "distinct / distinction",
+      "page": "14",
+      "sourceEntry": "1:distinct",
+      "cards": [
+        "distinct",
+        "distinction"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "distort",
+      "page": "16",
+      "sourceEntry": "1:distort",
+      "cards": [
+        "distort"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "distress",
+      "page": "10",
+      "sourceEntry": "1:distress",
+      "cards": [
+        "distress"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "editorial",
+      "page": "10",
+      "sourceEntry": "1:editorial",
+      "cards": [
+        "editorial"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "elaborate",
+      "page": "16",
+      "sourceEntry": "1:elaborate",
+      "cards": [
+        "elaborate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "eligible",
+      "page": "16",
+      "sourceEntry": "1:eligible",
+      "cards": [
+        "eligible"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "enclosure",
+      "page": "12",
+      "sourceEntry": "1:enclosure",
+      "cards": [
+        "enclosure"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "endeavor",
+      "page": "04",
+      "sourceEntry": "1:endeavor",
+      "cards": [
+        "endeavor"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "engage",
+      "page": "04",
+      "sourceEntry": "1:engage",
+      "cards": [
+        "engage"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "enlighten",
+      "page": "16",
+      "sourceEntry": "1:enlighten",
+      "cards": [
+        "enlighten"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "enroll",
+      "page": "04",
+      "sourceEntry": "1:enroll",
+      "cards": [
+        "enroll"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "entertain",
+      "page": "16",
+      "sourceEntry": "1:entertain",
+      "cards": [
+        "entertain"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "exceed",
+      "page": "06",
+      "sourceEntry": "1:exceed",
+      "cards": [
+        "exceed"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "exceedingly",
+      "page": "16",
+      "sourceEntry": "1:exceedingly",
+      "cards": [
+        "exceedingly"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "excess / excessive",
+      "page": "06",
+      "sourceEntry": "1:excess",
+      "cards": [
+        "excess",
+        "excessive"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "exert",
+      "page": "12",
+      "sourceEntry": "1:exert",
+      "cards": [
+        "exert"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "exhibit",
+      "page": "10, 16",
+      "sourceEntry": "1:exhibit",
+      "cards": [
+        "exhibit"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "exploit",
+      "page": "10",
+      "sourceEntry": "1:exploit",
+      "cards": [
+        "exploit"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "extensive",
+      "page": "04",
+      "sourceEntry": "1:extensive",
+      "cards": [
+        "extensive"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "extravagant",
+      "page": "16",
+      "sourceEntry": "1:extravagant",
+      "cards": [
+        "extravagant"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "facilitate",
+      "page": "04",
+      "sourceEntry": "1:facilitate",
+      "cards": [
+        "facilitate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "faculty",
+      "page": "04",
+      "sourceEntry": "1:faculty",
+      "cards": [
+        "faculty"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "fatigue",
+      "page": "08",
+      "sourceEntry": "1:fatigue",
+      "cards": [
+        "fatigue"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "feasible",
+      "page": "08",
+      "sourceEntry": "1:feasible",
+      "cards": [
+        "feasible"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "feeble",
+      "page": "08",
+      "sourceEntry": "1:feeble",
+      "cards": [
+        "feeble"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "flee",
+      "page": "12",
+      "sourceEntry": "1:flee",
+      "cards": [
+        "flee"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "flesh",
+      "page": "08",
+      "sourceEntry": "1:flesh",
+      "cards": [
+        "flesh"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "flourish",
+      "page": "06",
+      "sourceEntry": "1:flourish",
+      "cards": [
+        "flourish"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "fluctuate",
+      "page": "06",
+      "sourceEntry": "1:fluctuate",
+      "cards": [
+        "fluctuate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "fruitful",
+      "page": "04",
+      "sourceEntry": "1:fruitful",
+      "cards": [
+        "fruitful"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "frustrate",
+      "page": "12",
+      "sourceEntry": "1:frustrate",
+      "cards": [
+        "frustrate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "gratitude",
+      "page": "16",
+      "sourceEntry": "1:gratitude",
+      "cards": [
+        "gratitude"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "halt",
+      "page": "12",
+      "sourceEntry": "1:halt",
+      "cards": [
+        "halt"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "impart",
+      "page": "04",
+      "sourceEntry": "1:impart",
+      "cards": [
+        "impart"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "implicit",
+      "page": "10",
+      "sourceEntry": "1:implicit",
+      "cards": [
+        "implicit"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "indifferent",
+      "page": "16",
+      "sourceEntry": "1:indifferent",
+      "cards": [
+        "indifferent"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "induce",
+      "page": "08",
+      "sourceEntry": "1:induce",
+      "cards": [
+        "induce"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "indulge",
+      "page": "14",
+      "sourceEntry": "1:indulge",
+      "cards": [
+        "indulge"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "inevitable",
+      "page": "12",
+      "sourceEntry": "1:inevitable",
+      "cards": [
+        "inevitable"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "inferior",
+      "page": "14",
+      "sourceEntry": "1:inferior",
+      "cards": [
+        "inferior"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "initiate",
+      "page": "12",
+      "sourceEntry": "1:initiate",
+      "cards": [
+        "initiate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "inject",
+      "page": "08",
+      "sourceEntry": "1:inject",
+      "cards": [
+        "inject"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "inspect",
+      "page": "12",
+      "sourceEntry": "1:inspect",
+      "cards": [
+        "inspect"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "installment",
+      "page": "06",
+      "sourceEntry": "1:installment",
+      "cards": [
+        "installment"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "instance",
+      "page": "16",
+      "sourceEntry": "1:instance",
+      "cards": [
+        "instance"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "instantaneous",
+      "page": "14",
+      "sourceEntry": "1:instantaneous",
+      "cards": [
+        "instantaneous"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "intellectual",
+      "page": "04",
+      "sourceEntry": "1:intellectual",
+      "cards": [
+        "intellectual"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "intend / intention",
+      "page": "16",
+      "sourceEntry": "1:intend",
+      "cards": [
+        "intend",
+        "intention"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "intensive",
+      "page": "14",
+      "sourceEntry": "1:intensive",
+      "cards": [
+        "intensive"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "invest / investment",
+      "page": "06",
+      "sourceEntry": "1:invest",
+      "cards": [
+        "invest",
+        "investment"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "irrespective",
+      "page": "16",
+      "sourceEntry": "1:irrespective",
+      "cards": [
+        "irrespective"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "lest",
+      "page": "12",
+      "sourceEntry": "1:lest",
+      "cards": [
+        "lest"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "likewise",
+      "page": "16",
+      "sourceEntry": "1:likewise",
+      "cards": [
+        "likewise"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "mortgage",
+      "page": "06",
+      "sourceEntry": "1:mortgage",
+      "cards": [
+        "mortgage"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "motion",
+      "page": "14",
+      "sourceEntry": "1:motion",
+      "cards": [
+        "motion"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "mutual",
+      "page": "16",
+      "sourceEntry": "1:mutual",
+      "cards": [
+        "mutual"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "nevertheless",
+      "page": "10",
+      "sourceEntry": "1:nevertheless",
+      "cards": [
+        "nevertheless"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "objection",
+      "page": "04, 16",
+      "sourceEntry": "1:objection",
+      "cards": [
+        "objection"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "occasion",
+      "page": "14",
+      "sourceEntry": "1:occasion",
+      "cards": [
+        "occasion"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "ornament",
+      "page": "16",
+      "sourceEntry": "1:ornament",
+      "cards": [
+        "ornament"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "patent",
+      "page": "14",
+      "sourceEntry": "1:patent",
+      "cards": [
+        "patent"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "perceive",
+      "page": "04",
+      "sourceEntry": "1:perceive",
+      "cards": [
+        "perceive"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "persist",
+      "page": "08",
+      "sourceEntry": "1:persist",
+      "cards": [
+        "persist"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "plausible",
+      "page": "10",
+      "sourceEntry": "1:plausible",
+      "cards": [
+        "plausible"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "plot",
+      "page": "10",
+      "sourceEntry": "1:plot",
+      "cards": [
+        "plot"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "precede",
+      "page": "12",
+      "sourceEntry": "1:precede",
+      "cards": [
+        "precede"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "preliminary",
+      "page": "12",
+      "sourceEntry": "1:preliminary",
+      "cards": [
+        "preliminary"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "prescribe / prescription",
+      "page": "08",
+      "sourceEntry": "1:prescribe",
+      "cards": [
+        "prescribe",
+        "prescription"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "presumably",
+      "page": "08",
+      "sourceEntry": "1:presumably",
+      "cards": [
+        "presumably"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "prevail / prevalent",
+      "page": "06",
+      "sourceEntry": "1:prevail",
+      "cards": [
+        "prevail",
+        "prevalent"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "primitive",
+      "page": "12",
+      "sourceEntry": "1:primitive",
+      "cards": [
+        "primitive"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "principal",
+      "page": "04",
+      "sourceEntry": "1:principal",
+      "cards": [
+        "principal"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "proficiency",
+      "page": "04",
+      "sourceEntry": "1:proficiency",
+      "cards": [
+        "proficiency"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "prone",
+      "page": "08",
+      "sourceEntry": "1:prone",
+      "cards": [
+        "prone"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "pursue / pursuit",
+      "page": "14",
+      "sourceEntry": "1:pursue",
+      "cards": [
+        "pursue",
+        "pursuit"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "radical",
+      "page": "14",
+      "sourceEntry": "1:radical",
+      "cards": [
+        "radical"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "recession",
+      "page": "06",
+      "sourceEntry": "1:recession",
+      "cards": [
+        "recession"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "recur",
+      "page": "12",
+      "sourceEntry": "1:recur",
+      "cards": [
+        "recur"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "refresh",
+      "page": "04",
+      "sourceEntry": "1:refresh",
+      "cards": [
+        "refresh"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "reinforce",
+      "page": "04",
+      "sourceEntry": "1:reinforce",
+      "cards": [
+        "reinforce"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "relay",
+      "page": "14",
+      "sourceEntry": "1:relay",
+      "cards": [
+        "relay"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "reluctant",
+      "page": "14",
+      "sourceEntry": "1:reluctant",
+      "cards": [
+        "reluctant"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "renovate",
+      "page": "06",
+      "sourceEntry": "1:renovate",
+      "cards": [
+        "renovate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "repel",
+      "page": "12",
+      "sourceEntry": "1:repel",
+      "cards": [
+        "repel"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "reproduce",
+      "page": "08",
+      "sourceEntry": "1:reproduce",
+      "cards": [
+        "reproduce"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "resemblance",
+      "page": "14",
+      "sourceEntry": "1:resemblance",
+      "cards": [
+        "resemblance"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "resign",
+      "page": "06",
+      "sourceEntry": "1:resign",
+      "cards": [
+        "resign"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "resolute",
+      "page": "10",
+      "sourceEntry": "1:resolute",
+      "cards": [
+        "resolute"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "resolve / resolution",
+      "page": "10",
+      "sourceEntry": "1:resolve",
+      "cards": [
+        "resolve",
+        "resolution"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "resort",
+      "page": "16",
+      "sourceEntry": "1:resort",
+      "cards": [
+        "resort"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "respective",
+      "page": "16",
+      "sourceEntry": "1:respective",
+      "cards": [
+        "respective"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "restore",
+      "page": "06, 16",
+      "sourceEntry": "1:restore",
+      "cards": [
+        "restore"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "retail",
+      "page": "06",
+      "sourceEntry": "1:retail",
+      "cards": [
+        "retail"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "retreat",
+      "page": "12",
+      "sourceEntry": "1:retreat",
+      "cards": [
+        "retreat"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "reveal / revelation",
+      "page": "06, 10",
+      "sourceEntry": "1:reveal",
+      "cards": [
+        "reveal",
+        "revelation"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "revive",
+      "page": "06",
+      "sourceEntry": "1:revive",
+      "cards": [
+        "revive"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "rigid",
+      "page": "12",
+      "sourceEntry": "1:rigid",
+      "cards": [
+        "rigid"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "sake",
+      "page": "16",
+      "sourceEntry": "1:sake",
+      "cards": [
+        "sake"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "scandal",
+      "page": "10",
+      "sourceEntry": "1:scandal",
+      "cards": [
+        "scandal"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "scarce",
+      "page": "08",
+      "sourceEntry": "1:scarce",
+      "cards": [
+        "scarce"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "scholar",
+      "page": "04",
+      "sourceEntry": "1:scholar",
+      "cards": [
+        "scholar"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "sensible",
+      "page": "08",
+      "sourceEntry": "1:sensible",
+      "cards": [
+        "sensible"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "setback",
+      "page": "12",
+      "sourceEntry": "1:setback",
+      "cards": [
+        "setback"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "simultaneous",
+      "page": "14",
+      "sourceEntry": "1:simultaneous",
+      "cards": [
+        "simultaneous"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "skim",
+      "page": "14",
+      "sourceEntry": "1:skim",
+      "cards": [
+        "skim"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "slack",
+      "page": "14",
+      "sourceEntry": "1:slack",
+      "cards": [
+        "slack"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "specialist / specialty",
+      "page": "04",
+      "sourceEntry": "1:specialist",
+      "cards": [
+        "specialist",
+        "specialty"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "spectator",
+      "page": "14",
+      "sourceEntry": "1:spectator",
+      "cards": [
+        "spectator"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "spite",
+      "page": "16",
+      "sourceEntry": "1:spite",
+      "cards": [
+        "spite"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "spoil",
+      "page": "08, 16",
+      "sourceEntry": "1:spoil",
+      "cards": [
+        "spoil"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "status",
+      "page": "06",
+      "sourceEntry": "1:status",
+      "cards": [
+        "status"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "steady",
+      "page": "12",
+      "sourceEntry": "1:steady",
+      "cards": [
+        "steady"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "strain",
+      "page": "12",
+      "sourceEntry": "1:strain",
+      "cards": [
+        "strain"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "striking",
+      "page": "14",
+      "sourceEntry": "1:striking",
+      "cards": [
+        "striking"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "strive",
+      "page": "04",
+      "sourceEntry": "1:strive",
+      "cards": [
+        "strive"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "subsequent",
+      "page": "14",
+      "sourceEntry": "1:subsequent",
+      "cards": [
+        "subsequent"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "subtle",
+      "page": "10",
+      "sourceEntry": "1:subtle",
+      "cards": [
+        "subtle"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "sufficient",
+      "page": "08",
+      "sourceEntry": "1:sufficient",
+      "cards": [
+        "sufficient"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "suspicious",
+      "page": "10",
+      "sourceEntry": "1:suspicious",
+      "cards": [
+        "suspicious"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "tedious",
+      "page": "14",
+      "sourceEntry": "1:tedious",
+      "cards": [
+        "tedious"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "tension",
+      "page": "16",
+      "sourceEntry": "1:tension",
+      "cards": [
+        "tension"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "thereby",
+      "page": "06",
+      "sourceEntry": "1:thereby",
+      "cards": [
+        "thereby"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "thorough",
+      "page": "10",
+      "sourceEntry": "1:thorough",
+      "cards": [
+        "thorough"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "transaction",
+      "page": "06, 10",
+      "sourceEntry": "1:transaction",
+      "cards": [
+        "transaction"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "transient",
+      "page": "12",
+      "sourceEntry": "1:transient",
+      "cards": [
+        "transient"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "transition",
+      "page": "06",
+      "sourceEntry": "1:transition",
+      "cards": [
+        "transition"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "transmit / transmission",
+      "page": "08",
+      "sourceEntry": "1:transmit",
+      "cards": [
+        "transmit",
+        "transmission"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "tremendous",
+      "page": "08",
+      "sourceEntry": "1:tremendous",
+      "cards": [
+        "tremendous"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "trivial",
+      "page": "10",
+      "sourceEntry": "1:trivial",
+      "cards": [
+        "trivial"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "ultimate",
+      "page": "12",
+      "sourceEntry": "1:ultimate",
+      "cards": [
+        "ultimate"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "underlie",
+      "page": "08",
+      "sourceEntry": "1:underlie",
+      "cards": [
+        "underlie"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "utmost",
+      "page": "12",
+      "sourceEntry": "1:utmost",
+      "cards": [
+        "utmost"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "verdict",
+      "page": "10",
+      "sourceEntry": "1:verdict",
+      "cards": [
+        "verdict"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "versus",
+      "page": "14",
+      "sourceEntry": "1:versus",
+      "cards": [
+        "versus"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "vigorous",
+      "page": "12",
+      "sourceEntry": "1:vigorous",
+      "cards": [
+        "vigorous"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "vulgar",
+      "page": "10",
+      "sourceEntry": "1:vulgar",
+      "cards": [
+        "vulgar"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "vulnerable",
+      "page": "08",
+      "sourceEntry": "1:vulnerable",
+      "cards": [
+        "vulnerable"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "whereas",
+      "page": "12",
+      "sourceEntry": "1:whereas",
+      "cards": [
+        "whereas"
+      ]
+    },
+    {
+      "book": 1,
+      "label": "withhold",
+      "page": "10",
+      "sourceEntry": "1:withhold",
+      "cards": [
+        "withhold"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "absurd",
+      "page": "10",
+      "sourceEntry": "2:absurd",
+      "cards": [
+        "absurd"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "abundant",
+      "page": "04",
+      "sourceEntry": "2:abundant",
+      "cards": [
+        "abundant"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "abuse",
+      "page": "08",
+      "sourceEntry": "2:abuse",
+      "cards": [
+        "abuse"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "accord",
+      "page": "14",
+      "sourceEntry": "2:accord",
+      "cards": [
+        "accord"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "articulate",
+      "page": "12",
+      "sourceEntry": "2:articulate",
+      "cards": [
+        "articulate"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "bail",
+      "page": "08",
+      "sourceEntry": "2:bail",
+      "cards": [
+        "bail"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "blast",
+      "page": "06",
+      "sourceEntry": "2:blast",
+      "cards": [
+        "blast"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "bleed",
+      "page": "08",
+      "sourceEntry": "2:bleed",
+      "cards": [
+        "bleed"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "blur",
+      "page": "12",
+      "sourceEntry": "2:blur",
+      "cards": [
+        "blur"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "breed",
+      "page": "12",
+      "sourceEntry": "2:breed",
+      "cards": [
+        "breed"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "bulletin",
+      "page": "06",
+      "sourceEntry": "2:bulletin",
+      "cards": [
+        "bulletin"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "carve",
+      "page": "10",
+      "sourceEntry": "2:carve",
+      "cards": [
+        "carve"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "catalog / catalogue",
+      "page": "10",
+      "sourceEntry": "2:catalog",
+      "cards": [
+        "catalog"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "category",
+      "page": "10",
+      "sourceEntry": "2:category",
+      "cards": [
+        "category"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "chronic",
+      "page": "04",
+      "sourceEntry": "2:chronic",
+      "cards": [
+        "chronic"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "clue",
+      "page": "08",
+      "sourceEntry": "2:clue",
+      "cards": [
+        "clue"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "coincide",
+      "page": "06",
+      "sourceEntry": "2:coincide",
+      "cards": [
+        "coincide"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "commend",
+      "page": "14",
+      "sourceEntry": "2:commend",
+      "cards": [
+        "commend"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "commission",
+      "page": "14",
+      "sourceEntry": "2:commission",
+      "cards": [
+        "commission"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "complement",
+      "page": "10",
+      "sourceEntry": "2:complement",
+      "cards": [
+        "complement"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "comply",
+      "page": "14",
+      "sourceEntry": "2:comply",
+      "cards": [
+        "comply"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "comprise",
+      "page": "06",
+      "sourceEntry": "2:comprise",
+      "cards": [
+        "comprise"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "conceive",
+      "page": "14",
+      "sourceEntry": "2:conceive",
+      "cards": [
+        "conceive"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "conference",
+      "page": "14",
+      "sourceEntry": "2:conference",
+      "cards": [
+        "conference"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "conspicuous",
+      "page": "12",
+      "sourceEntry": "2:conspicuous",
+      "cards": [
+        "conspicuous"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "constituent",
+      "page": "04",
+      "sourceEntry": "2:constituent",
+      "cards": [
+        "constituent"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "constrain",
+      "page": "04",
+      "sourceEntry": "2:constrain",
+      "cards": [
+        "constrain"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "contaminate",
+      "page": "04",
+      "sourceEntry": "2:contaminate",
+      "cards": [
+        "contaminate"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "context",
+      "page": "12",
+      "sourceEntry": "2:context",
+      "cards": [
+        "context"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "contrive",
+      "page": "06",
+      "sourceEntry": "2:contrive",
+      "cards": [
+        "contrive"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "correspond",
+      "page": "14",
+      "sourceEntry": "2:correspond",
+      "cards": [
+        "correspond"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "correspondence",
+      "page": "14",
+      "sourceEntry": "2:correspondence",
+      "cards": [
+        "correspondence"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "counsel",
+      "page": "10",
+      "sourceEntry": "2:counsel",
+      "cards": [
+        "counsel"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "criterion",
+      "page": "14",
+      "sourceEntry": "2:criterion",
+      "cards": [
+        "criterion"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "crude",
+      "page": "10",
+      "sourceEntry": "2:crude",
+      "cards": [
+        "crude"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "crush",
+      "page": "12",
+      "sourceEntry": "2:crush",
+      "cards": [
+        "crush"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "deceit",
+      "page": "08",
+      "sourceEntry": "2:deceit",
+      "cards": [
+        "deceit"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "decent",
+      "page": "14",
+      "sourceEntry": "2:decent",
+      "cards": [
+        "decent"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "defy",
+      "page": "08",
+      "sourceEntry": "2:defy",
+      "cards": [
+        "defy"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "depict",
+      "page": "12",
+      "sourceEntry": "2:depict",
+      "cards": [
+        "depict"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "deposit",
+      "page": "08",
+      "sourceEntry": "2:deposit",
+      "cards": [
+        "deposit"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "despair",
+      "page": "10",
+      "sourceEntry": "2:despair",
+      "cards": [
+        "despair"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "detain",
+      "page": "08",
+      "sourceEntry": "2:detain",
+      "cards": [
+        "detain"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "detect",
+      "page": "04",
+      "sourceEntry": "2:detect",
+      "cards": [
+        "detect"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "dim",
+      "page": "12",
+      "sourceEntry": "2:dim",
+      "cards": [
+        "dim"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "dispatch",
+      "page": "08",
+      "sourceEntry": "2:dispatch",
+      "cards": [
+        "dispatch"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "drift",
+      "page": "06",
+      "sourceEntry": "2:drift",
+      "cards": [
+        "drift"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "durable",
+      "page": "04",
+      "sourceEntry": "2:durable",
+      "cards": [
+        "durable"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "ebb",
+      "page": "06",
+      "sourceEntry": "2:ebb",
+      "cards": [
+        "ebb"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "eclipse",
+      "page": "06",
+      "sourceEntry": "2:eclipse",
+      "cards": [
+        "eclipse"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "eject",
+      "page": "06",
+      "sourceEntry": "2:eject",
+      "cards": [
+        "eject"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "elapse",
+      "page": "06",
+      "sourceEntry": "2:elapse",
+      "cards": [
+        "elapse"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "endow",
+      "page": "10",
+      "sourceEntry": "2:endow",
+      "cards": [
+        "endow"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "erect",
+      "page": "06",
+      "sourceEntry": "2:erect",
+      "cards": [
+        "erect"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "essence",
+      "page": "14",
+      "sourceEntry": "2:essence",
+      "cards": [
+        "essence"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "exclaim",
+      "page": "12",
+      "sourceEntry": "2:exclaim",
+      "cards": [
+        "exclaim"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "exotic",
+      "page": "06",
+      "sourceEntry": "2:exotic",
+      "cards": [
+        "exotic"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "expedition",
+      "page": "06",
+      "sourceEntry": "2:expedition",
+      "cards": [
+        "expedition"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "expel",
+      "page": "08",
+      "sourceEntry": "2:expel",
+      "cards": [
+        "expel"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "expenditure",
+      "page": "04",
+      "sourceEntry": "2:expenditure",
+      "cards": [
+        "expenditure"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "explicit",
+      "page": "12",
+      "sourceEntry": "2:explicit",
+      "cards": [
+        "explicit"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "extent",
+      "page": "06",
+      "sourceEntry": "2:extent",
+      "cards": [
+        "extent"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "extract",
+      "page": "04",
+      "sourceEntry": "2:extract",
+      "cards": [
+        "extract"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "fancy",
+      "page": "12",
+      "sourceEntry": "2:fancy",
+      "cards": [
+        "fancy"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "fatal",
+      "page": "06",
+      "sourceEntry": "2:fatal",
+      "cards": [
+        "fatal"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "faulty",
+      "page": "04",
+      "sourceEntry": "2:faulty",
+      "cards": [
+        "faulty"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "favorable / favourable",
+      "page": "14",
+      "sourceEntry": "2:favorable",
+      "cards": [
+        "favorable"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "flatter",
+      "page": "10",
+      "sourceEntry": "2:flatter",
+      "cards": [
+        "flatter"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "flaw",
+      "page": "04",
+      "sourceEntry": "2:flaw",
+      "cards": [
+        "flaw"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "formidable",
+      "page": "06",
+      "sourceEntry": "2:formidable",
+      "cards": [
+        "formidable"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "formulate",
+      "page": "04",
+      "sourceEntry": "2:formulate",
+      "cards": [
+        "formulate"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "fragment",
+      "page": "04",
+      "sourceEntry": "2:fragment",
+      "cards": [
+        "fragment"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "fraud",
+      "page": "08",
+      "sourceEntry": "2:fraud",
+      "cards": [
+        "fraud"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "furnish",
+      "page": "10",
+      "sourceEntry": "2:furnish",
+      "cards": [
+        "furnish"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "gloomy",
+      "page": "12",
+      "sourceEntry": "2:gloomy",
+      "cards": [
+        "gloomy"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "grant",
+      "page": "04",
+      "sourceEntry": "2:grant",
+      "cards": [
+        "grant"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "grief",
+      "page": "10",
+      "sourceEntry": "2:grief",
+      "cards": [
+        "grief"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "grip",
+      "page": "06",
+      "sourceEntry": "2:grip",
+      "cards": [
+        "grip"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "gross",
+      "page": "04",
+      "sourceEntry": "2:gross",
+      "cards": [
+        "gross"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "handy",
+      "page": "06",
+      "sourceEntry": "2:handy",
+      "cards": [
+        "handy"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "hasty",
+      "page": "10",
+      "sourceEntry": "2:hasty",
+      "cards": [
+        "hasty"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "heir",
+      "page": "10",
+      "sourceEntry": "2:heir",
+      "cards": [
+        "heir"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "hijack",
+      "page": "08",
+      "sourceEntry": "2:hijack",
+      "cards": [
+        "hijack"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "hostage",
+      "page": "08",
+      "sourceEntry": "2:hostage",
+      "cards": [
+        "hostage"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "hostile",
+      "page": "12",
+      "sourceEntry": "2:hostile",
+      "cards": [
+        "hostile"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "ignorance",
+      "page": "12",
+      "sourceEntry": "2:ignorance",
+      "cards": [
+        "ignorance"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "illuminate",
+      "page": "12",
+      "sourceEntry": "2:illuminate",
+      "cards": [
+        "illuminate"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "indicative",
+      "page": "08",
+      "sourceEntry": "2:indicative",
+      "cards": [
+        "indicative"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "indignant",
+      "page": "08",
+      "sourceEntry": "2:indignant",
+      "cards": [
+        "indignant"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "infer / inference",
+      "page": "14",
+      "sourceEntry": "2:infer",
+      "cards": [
+        "infer",
+        "inference"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "ingredient",
+      "page": "04",
+      "sourceEntry": "2:ingredient",
+      "cards": [
+        "ingredient"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "inherit",
+      "page": "10",
+      "sourceEntry": "2:inherit",
+      "cards": [
+        "inherit"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "interfere",
+      "page": "14",
+      "sourceEntry": "2:interfere",
+      "cards": [
+        "interfere"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "interior",
+      "page": "10",
+      "sourceEntry": "2:interior",
+      "cards": [
+        "interior"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "intimidate",
+      "page": "08",
+      "sourceEntry": "2:intimidate",
+      "cards": [
+        "intimidate"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "intricate",
+      "page": "04",
+      "sourceEntry": "2:intricate",
+      "cards": [
+        "intricate"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "intrinsic",
+      "page": "10",
+      "sourceEntry": "2:intrinsic",
+      "cards": [
+        "intrinsic"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "keen",
+      "page": "14",
+      "sourceEntry": "2:keen",
+      "cards": [
+        "keen"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "legacy",
+      "page": "10",
+      "sourceEntry": "2:legacy",
+      "cards": [
+        "legacy"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "manipulate",
+      "page": "12",
+      "sourceEntry": "2:manipulate",
+      "cards": [
+        "manipulate"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "mold / mould",
+      "page": "10",
+      "sourceEntry": "2:mold",
+      "cards": [
+        "mold"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "mortal",
+      "page": "10",
+      "sourceEntry": "2:mortal",
+      "cards": [
+        "mortal"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "narrative",
+      "page": "12",
+      "sourceEntry": "2:narrative",
+      "cards": [
+        "narrative"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "notion",
+      "page": "14",
+      "sourceEntry": "2:notion",
+      "cards": [
+        "notion"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "nurture",
+      "page": "10",
+      "sourceEntry": "2:nurture",
+      "cards": [
+        "nurture"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "obedient",
+      "page": "14",
+      "sourceEntry": "2:obedient",
+      "cards": [
+        "obedient"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "oblige",
+      "page": "10",
+      "sourceEntry": "2:oblige",
+      "cards": [
+        "oblige"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "obscure",
+      "page": "12",
+      "sourceEntry": "2:obscure",
+      "cards": [
+        "obscure"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "orient",
+      "page": "14",
+      "sourceEntry": "2:orient",
+      "cards": [
+        "orient"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "orientation",
+      "page": "14",
+      "sourceEntry": "2:orientation",
+      "cards": [
+        "orientation"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "outlook",
+      "page": "14",
+      "sourceEntry": "2:outlook",
+      "cards": [
+        "outlook"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "outrage",
+      "page": "08",
+      "sourceEntry": "2:outrage",
+      "cards": [
+        "outrage"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "overlap",
+      "page": "06",
+      "sourceEntry": "2:overlap",
+      "cards": [
+        "overlap"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "overturn",
+      "page": "14",
+      "sourceEntry": "2:overturn",
+      "cards": [
+        "overturn"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "overwhelm",
+      "page": "08",
+      "sourceEntry": "2:overwhelm",
+      "cards": [
+        "overwhelm"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "patrol",
+      "page": "08",
+      "sourceEntry": "2:patrol",
+      "cards": [
+        "patrol"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "patron",
+      "page": "10",
+      "sourceEntry": "2:patron",
+      "cards": [
+        "patron"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "peculiar",
+      "page": "06",
+      "sourceEntry": "2:peculiar",
+      "cards": [
+        "peculiar"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "penalty",
+      "page": "08",
+      "sourceEntry": "2:penalty",
+      "cards": [
+        "penalty"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "permeate",
+      "page": "06",
+      "sourceEntry": "2:permeate",
+      "cards": [
+        "permeate"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "perpetual",
+      "page": "04",
+      "sourceEntry": "2:perpetual",
+      "cards": [
+        "perpetual"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "perspective",
+      "page": "12",
+      "sourceEntry": "2:perspective",
+      "cards": [
+        "perspective"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "pirate",
+      "page": "08",
+      "sourceEntry": "2:pirate",
+      "cards": [
+        "pirate"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "plunge",
+      "page": "06",
+      "sourceEntry": "2:plunge",
+      "cards": [
+        "plunge"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "ponder",
+      "page": "12",
+      "sourceEntry": "2:ponder",
+      "cards": [
+        "ponder"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "preclude",
+      "page": "06",
+      "sourceEntry": "2:preclude",
+      "cards": [
+        "preclude"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "preside",
+      "page": "14",
+      "sourceEntry": "2:preside",
+      "cards": [
+        "preside"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "prey",
+      "page": "08",
+      "sourceEntry": "2:prey",
+      "cards": [
+        "prey"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "prominent",
+      "page": "12",
+      "sourceEntry": "2:prominent",
+      "cards": [
+        "prominent"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "propel",
+      "page": "06",
+      "sourceEntry": "2:propel",
+      "cards": [
+        "propel"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "prosecute",
+      "page": "08",
+      "sourceEntry": "2:prosecute",
+      "cards": [
+        "prosecute"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "prospect",
+      "page": "14",
+      "sourceEntry": "2:prospect",
+      "cards": [
+        "prospect"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "provision",
+      "page": "04",
+      "sourceEntry": "2:provision",
+      "cards": [
+        "provision"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "provoke",
+      "page": "12",
+      "sourceEntry": "2:provoke",
+      "cards": [
+        "provoke"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "punctual",
+      "page": "10",
+      "sourceEntry": "2:punctual",
+      "cards": [
+        "punctual"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "raw",
+      "page": "06",
+      "sourceEntry": "2:raw",
+      "cards": [
+        "raw"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "readily",
+      "page": "12",
+      "sourceEntry": "2:readily",
+      "cards": [
+        "readily"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "rectify",
+      "page": "04",
+      "sourceEntry": "2:rectify",
+      "cards": [
+        "rectify"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "redundant",
+      "page": "10",
+      "sourceEntry": "2:redundant",
+      "cards": [
+        "redundant"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "refine",
+      "page": "10",
+      "sourceEntry": "2:refine",
+      "cards": [
+        "refine"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "refrain",
+      "page": "14",
+      "sourceEntry": "2:refrain",
+      "cards": [
+        "refrain"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "refute",
+      "page": "08",
+      "sourceEntry": "2:refute",
+      "cards": [
+        "refute"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "resent",
+      "page": "12",
+      "sourceEntry": "2:resent",
+      "cards": [
+        "resent"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "restrain",
+      "page": "14",
+      "sourceEntry": "2:restrain",
+      "cards": [
+        "restrain"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "retention",
+      "page": "04",
+      "sourceEntry": "2:retention",
+      "cards": [
+        "retention"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "revolve",
+      "page": "06",
+      "sourceEntry": "2:revolve",
+      "cards": [
+        "revolve"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "rigorous",
+      "page": "04",
+      "sourceEntry": "2:rigorous",
+      "cards": [
+        "rigorous"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "sanction",
+      "page": "08",
+      "sourceEntry": "2:sanction",
+      "cards": [
+        "sanction"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "sarcastic",
+      "page": "12",
+      "sourceEntry": "2:sarcastic",
+      "cards": [
+        "sarcastic"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "satire",
+      "page": "12",
+      "sourceEntry": "2:satire",
+      "cards": [
+        "satire"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "scope",
+      "page": "06",
+      "sourceEntry": "2:scope",
+      "cards": [
+        "scope"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "sector",
+      "page": "04",
+      "sourceEntry": "2:sector",
+      "cards": [
+        "sector"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "snatch",
+      "page": "08",
+      "sourceEntry": "2:snatch",
+      "cards": [
+        "snatch"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "span",
+      "page": "06",
+      "sourceEntry": "2:span",
+      "cards": [
+        "span"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "specify",
+      "page": "04",
+      "sourceEntry": "2:specify",
+      "cards": [
+        "specify"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "speculate",
+      "page": "12",
+      "sourceEntry": "2:speculate",
+      "cards": [
+        "speculate"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "spontaneous",
+      "page": "12",
+      "sourceEntry": "2:spontaneous",
+      "cards": [
+        "spontaneous"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "spray",
+      "page": "06",
+      "sourceEntry": "2:spray",
+      "cards": [
+        "spray"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "stain",
+      "page": "12",
+      "sourceEntry": "2:stain",
+      "cards": [
+        "stain"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "staple",
+      "page": "10",
+      "sourceEntry": "2:staple",
+      "cards": [
+        "staple"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "steep",
+      "page": "06",
+      "sourceEntry": "2:steep",
+      "cards": [
+        "steep"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "stereotype",
+      "page": "12",
+      "sourceEntry": "2:stereotype",
+      "cards": [
+        "stereotype"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "substantial",
+      "page": "04",
+      "sourceEntry": "2:substantial",
+      "cards": [
+        "substantial"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "sue",
+      "page": "08",
+      "sourceEntry": "2:sue",
+      "cards": [
+        "sue"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "supervise",
+      "page": "14",
+      "sourceEntry": "2:supervise",
+      "cards": [
+        "supervise"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "suppress",
+      "page": "04",
+      "sourceEntry": "2:suppress",
+      "cards": [
+        "suppress"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "surplus",
+      "page": "04",
+      "sourceEntry": "2:surplus",
+      "cards": [
+        "surplus"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "susceptible",
+      "page": "04",
+      "sourceEntry": "2:susceptible",
+      "cards": [
+        "susceptible"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "synthesis",
+      "page": "14",
+      "sourceEntry": "2:synthesis",
+      "cards": [
+        "synthesis"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "synthetic",
+      "page": "04",
+      "sourceEntry": "2:synthetic",
+      "cards": [
+        "synthetic"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "testimony",
+      "page": "08",
+      "sourceEntry": "2:testimony",
+      "cards": [
+        "testimony"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "thesis",
+      "page": "14",
+      "sourceEntry": "2:thesis",
+      "cards": [
+        "thesis"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "threshold",
+      "page": "04",
+      "sourceEntry": "2:threshold",
+      "cards": [
+        "threshold"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "thrill",
+      "page": "10",
+      "sourceEntry": "2:thrill",
+      "cards": [
+        "thrill"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "toil",
+      "page": "10",
+      "sourceEntry": "2:toil",
+      "cards": [
+        "toil"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "trait",
+      "page": "14",
+      "sourceEntry": "2:trait",
+      "cards": [
+        "trait"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "undertake",
+      "page": "10",
+      "sourceEntry": "2:undertake",
+      "cards": [
+        "undertake"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "veto",
+      "page": "08",
+      "sourceEntry": "2:veto",
+      "cards": [
+        "veto"
+      ]
+    },
+    {
+      "book": 2,
+      "label": "warrant",
+      "page": "08",
+      "sourceEntry": "2:warrant",
+      "cards": [
+        "warrant"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "abide",
+      "page": "18",
+      "sourceEntry": "3:abide",
+      "cards": [
+        "abide"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "abrupt",
+      "page": "08",
+      "sourceEntry": "3:abrupt",
+      "cards": [
+        "abrupt"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "acclaim",
+      "page": "16",
+      "sourceEntry": "3:acclaim",
+      "cards": [
+        "acclaim"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "accumulate",
+      "page": "04",
+      "sourceEntry": "3:accumulate",
+      "cards": [
+        "accumulate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "adverse",
+      "page": "08",
+      "sourceEntry": "3:adverse",
+      "cards": [
+        "adverse"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "affirm",
+      "page": "18",
+      "sourceEntry": "3:affirm",
+      "cards": [
+        "affirm"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "aggravate",
+      "page": "18",
+      "sourceEntry": "3:aggravate",
+      "cards": [
+        "aggravate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "agitate",
+      "page": "14",
+      "sourceEntry": "3:agitate",
+      "cards": [
+        "agitate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "allege",
+      "page": "06",
+      "sourceEntry": "3:allege",
+      "cards": [
+        "allege"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "allowance",
+      "page": "04",
+      "sourceEntry": "3:allowance",
+      "cards": [
+        "allowance"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "ally",
+      "page": "06",
+      "sourceEntry": "3:ally",
+      "cards": [
+        "ally"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "amend",
+      "page": "04",
+      "sourceEntry": "3:amend",
+      "cards": [
+        "amend"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "amplify",
+      "page": "18",
+      "sourceEntry": "3:amplify",
+      "cards": [
+        "amplify"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "analogy",
+      "page": "12",
+      "sourceEntry": "3:analogy",
+      "cards": [
+        "analogy"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "anticipate",
+      "page": "18",
+      "sourceEntry": "3:anticipate",
+      "cards": [
+        "anticipate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "array",
+      "page": "16",
+      "sourceEntry": "3:array",
+      "cards": [
+        "array"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "artefact",
+      "page": "06",
+      "sourceEntry": "3:artefact",
+      "cards": [
+        "artefact"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "aspire",
+      "page": "18",
+      "sourceEntry": "3:aspire",
+      "cards": [
+        "aspire"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "assault",
+      "page": "14",
+      "sourceEntry": "3:assault",
+      "cards": [
+        "assault"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "assemble/assembly",
+      "page": "16",
+      "sourceEntry": "3:assemble",
+      "cards": [
+        "assemble",
+        "assembly"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "auction",
+      "page": "06",
+      "sourceEntry": "3:auction",
+      "cards": [
+        "auction"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "authentic",
+      "page": "06",
+      "sourceEntry": "3:authentic",
+      "cards": [
+        "authentic"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "avail",
+      "page": "18",
+      "sourceEntry": "3:avail",
+      "cards": [
+        "avail"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "bait",
+      "page": "10",
+      "sourceEntry": "3:bait",
+      "cards": [
+        "bait"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "beam",
+      "page": "16",
+      "sourceEntry": "3:beam",
+      "cards": [
+        "beam"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "bewilder",
+      "page": "06",
+      "sourceEntry": "3:bewilder",
+      "cards": [
+        "bewilder"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "bizarre",
+      "page": "18",
+      "sourceEntry": "3:bizarre",
+      "cards": [
+        "bizarre"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "bleak",
+      "page": "18",
+      "sourceEntry": "3:bleak",
+      "cards": [
+        "bleak"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "bloom",
+      "page": "10",
+      "sourceEntry": "3:bloom",
+      "cards": [
+        "bloom"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "blunder",
+      "page": "06",
+      "sourceEntry": "3:blunder",
+      "cards": [
+        "blunder"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "blunt",
+      "page": "06",
+      "sourceEntry": "3:blunt",
+      "cards": [
+        "blunt"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "boast",
+      "page": "18",
+      "sourceEntry": "3:boast",
+      "cards": [
+        "boast"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "breach",
+      "page": "14",
+      "sourceEntry": "3:breach",
+      "cards": [
+        "breach"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "bribe",
+      "page": "06",
+      "sourceEntry": "3:bribe",
+      "cards": [
+        "bribe"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "brutal",
+      "page": "14",
+      "sourceEntry": "3:brutal",
+      "cards": [
+        "brutal"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "bulk",
+      "page": "06",
+      "sourceEntry": "3:bulk",
+      "cards": [
+        "bulk"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "bypass",
+      "page": "12",
+      "sourceEntry": "3:bypass",
+      "cards": [
+        "bypass"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "cargo",
+      "page": "12",
+      "sourceEntry": "3:cargo",
+      "cards": [
+        "cargo"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "charter",
+      "page": "04",
+      "sourceEntry": "3:charter",
+      "cards": [
+        "charter"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "circuit",
+      "page": "12",
+      "sourceEntry": "3:circuit",
+      "cards": [
+        "circuit"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "combat",
+      "page": "10",
+      "sourceEntry": "3:combat",
+      "cards": [
+        "combat"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "commemorate",
+      "page": "16",
+      "sourceEntry": "3:commemorate",
+      "cards": [
+        "commemorate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "commute",
+      "page": "12",
+      "sourceEntry": "3:commute",
+      "cards": [
+        "commute"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "compact",
+      "page": "12",
+      "sourceEntry": "3:compact",
+      "cards": [
+        "compact"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "compel",
+      "page": "14",
+      "sourceEntry": "3:compel",
+      "cards": [
+        "compel"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "compress",
+      "page": "18",
+      "sourceEntry": "3:compress",
+      "cards": [
+        "compress"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "concede",
+      "page": "14",
+      "sourceEntry": "3:concede",
+      "cards": [
+        "concede"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "concession",
+      "page": "04",
+      "sourceEntry": "3:concession",
+      "cards": [
+        "concession"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "condemn",
+      "page": "14",
+      "sourceEntry": "3:condemn",
+      "cards": [
+        "condemn"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "condense",
+      "page": "18",
+      "sourceEntry": "3:condense",
+      "cards": [
+        "condense"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "confer",
+      "page": "14",
+      "sourceEntry": "3:confer",
+      "cards": [
+        "confer"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "conquer",
+      "page": "14",
+      "sourceEntry": "3:conquer",
+      "cards": [
+        "conquer"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "consolidate",
+      "page": "04",
+      "sourceEntry": "3:consolidate",
+      "cards": [
+        "consolidate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "contemplate",
+      "page": "18",
+      "sourceEntry": "3:contemplate",
+      "cards": [
+        "contemplate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "contempt",
+      "page": "14",
+      "sourceEntry": "3:contempt",
+      "cards": [
+        "contempt"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "convict/conviction",
+      "page": "06",
+      "sourceEntry": "3:convict",
+      "cards": [
+        "convict",
+        "conviction"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "corrupt",
+      "page": "06",
+      "sourceEntry": "3:corrupt",
+      "cards": [
+        "corrupt"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "counterpart",
+      "page": "06",
+      "sourceEntry": "3:counterpart",
+      "cards": [
+        "counterpart"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "crawl",
+      "page": "10",
+      "sourceEntry": "3:crawl",
+      "cards": [
+        "crawl"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "cripple",
+      "page": "12",
+      "sourceEntry": "3:cripple",
+      "cards": [
+        "cripple"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "curb",
+      "page": "14",
+      "sourceEntry": "3:curb",
+      "cards": [
+        "curb"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "default",
+      "page": "04",
+      "sourceEntry": "3:default",
+      "cards": [
+        "default"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "deficit",
+      "page": "04",
+      "sourceEntry": "3:deficit",
+      "cards": [
+        "deficit"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "deprive",
+      "page": "14",
+      "sourceEntry": "3:deprive",
+      "cards": [
+        "deprive"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "deputy",
+      "page": "06",
+      "sourceEntry": "3:deputy",
+      "cards": [
+        "deputy"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "derive",
+      "page": "04",
+      "sourceEntry": "3:derive",
+      "cards": [
+        "derive"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "descend",
+      "page": "16",
+      "sourceEntry": "3:descend",
+      "cards": [
+        "descend"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "dignity",
+      "page": "16",
+      "sourceEntry": "3:dignity",
+      "cards": [
+        "dignity"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "dilemma",
+      "page": "04",
+      "sourceEntry": "3:dilemma",
+      "cards": [
+        "dilemma"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "diminish",
+      "page": "04",
+      "sourceEntry": "3:diminish",
+      "cards": [
+        "diminish"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "dine",
+      "page": "18",
+      "sourceEntry": "3:dine",
+      "cards": [
+        "dine"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "discern",
+      "page": "06",
+      "sourceEntry": "3:discern",
+      "cards": [
+        "discern"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "disguise",
+      "page": "06",
+      "sourceEntry": "3:disguise",
+      "cards": [
+        "disguise"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "disperse",
+      "page": "08",
+      "sourceEntry": "3:disperse",
+      "cards": [
+        "disperse"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "dispute",
+      "page": "04",
+      "sourceEntry": "3:dispute",
+      "cards": [
+        "dispute"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "divert",
+      "page": "08",
+      "sourceEntry": "3:divert",
+      "cards": [
+        "divert"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "dividend",
+      "page": "04",
+      "sourceEntry": "3:dividend",
+      "cards": [
+        "dividend"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "drain",
+      "page": "08",
+      "sourceEntry": "3:drain",
+      "cards": [
+        "drain"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "drastic",
+      "page": "10",
+      "sourceEntry": "3:drastic",
+      "cards": [
+        "drastic"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "dread",
+      "page": "08",
+      "sourceEntry": "3:dread",
+      "cards": [
+        "dread"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "dwell",
+      "page": "10",
+      "sourceEntry": "3:dwell",
+      "cards": [
+        "dwell"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "elevate",
+      "page": "12",
+      "sourceEntry": "3:elevate",
+      "cards": [
+        "elevate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "entail",
+      "page": "04",
+      "sourceEntry": "3:entail",
+      "cards": [
+        "entail"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "envisage",
+      "page": "18",
+      "sourceEntry": "3:envisage",
+      "cards": [
+        "envisage"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "escalate",
+      "page": "14",
+      "sourceEntry": "3:escalate",
+      "cards": [
+        "escalate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "estate",
+      "page": "04",
+      "sourceEntry": "3:estate",
+      "cards": [
+        "estate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "esteem",
+      "page": "18",
+      "sourceEntry": "3:esteem",
+      "cards": [
+        "esteem"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "evoke",
+      "page": "06",
+      "sourceEntry": "3:evoke",
+      "cards": [
+        "evoke"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "exaggerate",
+      "page": "10",
+      "sourceEntry": "3:exaggerate",
+      "cards": [
+        "exaggerate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "exempt",
+      "page": "04",
+      "sourceEntry": "3:exempt",
+      "cards": [
+        "exempt"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "extinguish",
+      "page": "08",
+      "sourceEntry": "3:extinguish",
+      "cards": [
+        "extinguish"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "fabricate",
+      "page": "06",
+      "sourceEntry": "3:fabricate",
+      "cards": [
+        "fabricate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "flare",
+      "page": "16",
+      "sourceEntry": "3:flare",
+      "cards": [
+        "flare"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "fling",
+      "page": "10",
+      "sourceEntry": "3:fling",
+      "cards": [
+        "fling"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "flock",
+      "page": "10",
+      "sourceEntry": "3:flock",
+      "cards": [
+        "flock"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "forge",
+      "page": "06",
+      "sourceEntry": "3:forge",
+      "cards": [
+        "forge"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "foster",
+      "page": "18",
+      "sourceEntry": "3:foster",
+      "cards": [
+        "foster"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "freight",
+      "page": "12",
+      "sourceEntry": "3:freight",
+      "cards": [
+        "freight"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "gear",
+      "page": "12",
+      "sourceEntry": "3:gear",
+      "cards": [
+        "gear"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "glow",
+      "page": "16",
+      "sourceEntry": "3:glow",
+      "cards": [
+        "glow"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "groan",
+      "page": "16",
+      "sourceEntry": "3:groan",
+      "cards": [
+        "groan"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "habitat",
+      "page": "10",
+      "sourceEntry": "3:habitat",
+      "cards": [
+        "habitat"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "hamper",
+      "page": "08",
+      "sourceEntry": "3:hamper",
+      "cards": [
+        "hamper"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "handicap",
+      "page": "18",
+      "sourceEntry": "3:handicap",
+      "cards": [
+        "handicap"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "harness",
+      "page": "12",
+      "sourceEntry": "3:harness",
+      "cards": [
+        "harness"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "harsh",
+      "page": "16",
+      "sourceEntry": "3:harsh",
+      "cards": [
+        "harsh"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "hatch",
+      "page": "10",
+      "sourceEntry": "3:hatch",
+      "cards": [
+        "hatch"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "hazard",
+      "page": "08",
+      "sourceEntry": "3:hazard",
+      "cards": [
+        "hazard"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "herald",
+      "page": "16",
+      "sourceEntry": "3:herald",
+      "cards": [
+        "herald"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "herd",
+      "page": "10",
+      "sourceEntry": "3:herd",
+      "cards": [
+        "herd"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "hinder",
+      "page": "18",
+      "sourceEntry": "3:hinder",
+      "cards": [
+        "hinder"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "hop",
+      "page": "10",
+      "sourceEntry": "3:hop",
+      "cards": [
+        "hop"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "immerse",
+      "page": "08",
+      "sourceEntry": "3:immerse",
+      "cards": [
+        "immerse"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "impair",
+      "page": "08",
+      "sourceEntry": "3:impair",
+      "cards": [
+        "impair"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "imperative",
+      "page": "12",
+      "sourceEntry": "3:imperative",
+      "cards": [
+        "imperative"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "impetus",
+      "page": "04",
+      "sourceEntry": "3:impetus",
+      "cards": [
+        "impetus"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "implement",
+      "page": "04",
+      "sourceEntry": "3:implement",
+      "cards": [
+        "implement"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "impose",
+      "page": "14",
+      "sourceEntry": "3:impose",
+      "cards": [
+        "impose"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "impulse",
+      "page": "18",
+      "sourceEntry": "3:impulse",
+      "cards": [
+        "impulse"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "inaugurate",
+      "page": "16",
+      "sourceEntry": "3:inaugurate",
+      "cards": [
+        "inaugurate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "incentive",
+      "page": "04",
+      "sourceEntry": "3:incentive",
+      "cards": [
+        "incentive"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "incorporate",
+      "page": "12",
+      "sourceEntry": "3:incorporate",
+      "cards": [
+        "incorporate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "inherent",
+      "page": "10",
+      "sourceEntry": "3:inherent",
+      "cards": [
+        "inherent"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "inhibit",
+      "page": "08",
+      "sourceEntry": "3:inhibit",
+      "cards": [
+        "inhibit"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "instinct",
+      "page": "10",
+      "sourceEntry": "3:instinct",
+      "cards": [
+        "instinct"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "insulate",
+      "page": "08",
+      "sourceEntry": "3:insulate",
+      "cards": [
+        "insulate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "integral/integrity/integrate",
+      "page": "12",
+      "sourceEntry": "3:integral",
+      "cards": [
+        "integral",
+        "integrity",
+        "integrate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "intervene",
+      "page": "10",
+      "sourceEntry": "3:intervene",
+      "cards": [
+        "intervene"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "intrigue",
+      "page": "18",
+      "sourceEntry": "3:intrigue",
+      "cards": [
+        "intrigue"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "intrude",
+      "page": "08",
+      "sourceEntry": "3:intrude",
+      "cards": [
+        "intrude"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "invasion",
+      "page": "14",
+      "sourceEntry": "3:invasion",
+      "cards": [
+        "invasion"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "irrigate",
+      "page": "12",
+      "sourceEntry": "3:irrigate",
+      "cards": [
+        "irrigate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "irritate",
+      "page": "18",
+      "sourceEntry": "3:irritate",
+      "cards": [
+        "irritate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "lame",
+      "page": "12",
+      "sourceEntry": "3:lame",
+      "cards": [
+        "lame"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "lean",
+      "page": "18",
+      "sourceEntry": "3:lean",
+      "cards": [
+        "lean"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "leap",
+      "page": "10",
+      "sourceEntry": "3:leap",
+      "cards": [
+        "leap"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "levy",
+      "page": "04",
+      "sourceEntry": "3:levy",
+      "cards": [
+        "levy"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "liable/liability",
+      "page": "04",
+      "sourceEntry": "3:liable",
+      "cards": [
+        "liable",
+        "liability"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "linger",
+      "page": "10",
+      "sourceEntry": "3:linger",
+      "cards": [
+        "linger"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "lodge",
+      "page": "16",
+      "sourceEntry": "3:lodge",
+      "cards": [
+        "lodge"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "loom",
+      "page": "14",
+      "sourceEntry": "3:loom",
+      "cards": [
+        "loom"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "loosen",
+      "page": "12",
+      "sourceEntry": "3:loosen",
+      "cards": [
+        "loosen"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "lure",
+      "page": "10",
+      "sourceEntry": "3:lure",
+      "cards": [
+        "lure"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "marital",
+      "page": "16",
+      "sourceEntry": "3:marital",
+      "cards": [
+        "marital"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "menace",
+      "page": "08",
+      "sourceEntry": "3:menace",
+      "cards": [
+        "menace"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "militant",
+      "page": "14",
+      "sourceEntry": "3:militant",
+      "cards": [
+        "militant"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "moan",
+      "page": "16",
+      "sourceEntry": "3:moan",
+      "cards": [
+        "moan"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "mock",
+      "page": "06",
+      "sourceEntry": "3:mock",
+      "cards": [
+        "mock"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "monopoly",
+      "page": "10",
+      "sourceEntry": "3:monopoly",
+      "cards": [
+        "monopoly"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "mourn",
+      "page": "16",
+      "sourceEntry": "3:mourn",
+      "cards": [
+        "mourn"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "nasty",
+      "page": "18",
+      "sourceEntry": "3:nasty",
+      "cards": [
+        "nasty"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "notorious",
+      "page": "14",
+      "sourceEntry": "3:notorious",
+      "cards": [
+        "notorious"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "obstacle",
+      "page": "08",
+      "sourceEntry": "3:obstacle",
+      "cards": [
+        "obstacle"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "obstruct",
+      "page": "08",
+      "sourceEntry": "3:obstruct",
+      "cards": [
+        "obstruct"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "offset",
+      "page": "04",
+      "sourceEntry": "3:offset",
+      "cards": [
+        "offset"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "overhaul",
+      "page": "12",
+      "sourceEntry": "3:overhaul",
+      "cards": [
+        "overhaul"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "paralyze",
+      "page": "08",
+      "sourceEntry": "3:paralyze",
+      "cards": [
+        "paralyze"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "pave",
+      "page": "12",
+      "sourceEntry": "3:pave",
+      "cards": [
+        "pave"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "pension",
+      "page": "04",
+      "sourceEntry": "3:pension",
+      "cards": [
+        "pension"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "perplex",
+      "page": "06",
+      "sourceEntry": "3:perplex",
+      "cards": [
+        "perplex"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "petition",
+      "page": "06",
+      "sourceEntry": "3:petition",
+      "cards": [
+        "petition"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "plea",
+      "page": "06",
+      "sourceEntry": "3:plea",
+      "cards": [
+        "plea"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "pledge",
+      "page": "04",
+      "sourceEntry": "3:pledge",
+      "cards": [
+        "pledge"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "plug",
+      "page": "08",
+      "sourceEntry": "3:plug",
+      "cards": [
+        "plug"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "preach",
+      "page": "18",
+      "sourceEntry": "3:preach",
+      "cards": [
+        "preach"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "predator",
+      "page": "10",
+      "sourceEntry": "3:predator",
+      "cards": [
+        "predator"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "predecessor",
+      "page": "16",
+      "sourceEntry": "3:predecessor",
+      "cards": [
+        "predecessor"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "predominant",
+      "page": "14",
+      "sourceEntry": "3:predominant",
+      "cards": [
+        "predominant"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "prejudice",
+      "page": "14",
+      "sourceEntry": "3:prejudice",
+      "cards": [
+        "prejudice"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "prestige",
+      "page": "14",
+      "sourceEntry": "3:prestige",
+      "cards": [
+        "prestige"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "probe",
+      "page": "06",
+      "sourceEntry": "3:probe",
+      "cards": [
+        "probe"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "procession",
+      "page": "16",
+      "sourceEntry": "3:procession",
+      "cards": [
+        "procession"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "proclaim",
+      "page": "18",
+      "sourceEntry": "3:proclaim",
+      "cards": [
+        "proclaim"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "proposition",
+      "page": "04",
+      "sourceEntry": "3:proposition",
+      "cards": [
+        "proposition"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "prudent",
+      "page": "04",
+      "sourceEntry": "3:prudent",
+      "cards": [
+        "prudent"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "raid",
+      "page": "14",
+      "sourceEntry": "3:raid",
+      "cards": [
+        "raid"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "rally",
+      "page": "16",
+      "sourceEntry": "3:rally",
+      "cards": [
+        "rally"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "reap",
+      "page": "12",
+      "sourceEntry": "3:reap",
+      "cards": [
+        "reap"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "rebel",
+      "page": "14",
+      "sourceEntry": "3:rebel",
+      "cards": [
+        "rebel"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "reciprocal",
+      "page": "14",
+      "sourceEntry": "3:reciprocal",
+      "cards": [
+        "reciprocal"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "reclaim",
+      "page": "10",
+      "sourceEntry": "3:reclaim",
+      "cards": [
+        "reclaim"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "recruit",
+      "page": "16",
+      "sourceEntry": "3:recruit",
+      "cards": [
+        "recruit"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "redeem",
+      "page": "06",
+      "sourceEntry": "3:redeem",
+      "cards": [
+        "redeem"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "regime",
+      "page": "14",
+      "sourceEntry": "3:regime",
+      "cards": [
+        "regime"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "reign",
+      "page": "14",
+      "sourceEntry": "3:reign",
+      "cards": [
+        "reign"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "remedy",
+      "page": "18",
+      "sourceEntry": "3:remedy",
+      "cards": [
+        "remedy"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "render",
+      "page": "08",
+      "sourceEntry": "3:render",
+      "cards": [
+        "render"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "revenue",
+      "page": "04",
+      "sourceEntry": "3:revenue",
+      "cards": [
+        "revenue"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "ritual",
+      "page": "16",
+      "sourceEntry": "3:ritual",
+      "cards": [
+        "ritual"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "ruthless",
+      "page": "14",
+      "sourceEntry": "3:ruthless",
+      "cards": [
+        "ruthless"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "saturate",
+      "page": "08",
+      "sourceEntry": "3:saturate",
+      "cards": [
+        "saturate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "scatter",
+      "page": "08",
+      "sourceEntry": "3:scatter",
+      "cards": [
+        "scatter"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "scratch",
+      "page": "12",
+      "sourceEntry": "3:scratch",
+      "cards": [
+        "scratch"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "screw",
+      "page": "12",
+      "sourceEntry": "3:screw",
+      "cards": [
+        "screw"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "scrutiny",
+      "page": "06",
+      "sourceEntry": "3:scrutiny",
+      "cards": [
+        "scrutiny"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "sensation",
+      "page": "18",
+      "sourceEntry": "3:sensation",
+      "cards": [
+        "sensation"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "shatter",
+      "page": "08",
+      "sourceEntry": "3:shatter",
+      "cards": [
+        "shatter"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "shrewd",
+      "page": "06",
+      "sourceEntry": "3:shrewd",
+      "cards": [
+        "shrewd"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "shuttle",
+      "page": "12",
+      "sourceEntry": "3:shuttle",
+      "cards": [
+        "shuttle"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "slot",
+      "page": "12",
+      "sourceEntry": "3:slot",
+      "cards": [
+        "slot"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "soak",
+      "page": "08",
+      "sourceEntry": "3:soak",
+      "cards": [
+        "soak"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "soar",
+      "page": "12",
+      "sourceEntry": "3:soar",
+      "cards": [
+        "soar"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "solidarity",
+      "page": "14",
+      "sourceEntry": "3:solidarity",
+      "cards": [
+        "solidarity"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "sophisticated",
+      "page": "06",
+      "sourceEntry": "3:sophisticated",
+      "cards": [
+        "sophisticated"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "spectacle",
+      "page": "16",
+      "sourceEntry": "3:spectacle",
+      "cards": [
+        "spectacle"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "spill",
+      "page": "08",
+      "sourceEntry": "3:spill",
+      "cards": [
+        "spill"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "spur",
+      "page": "12",
+      "sourceEntry": "3:spur",
+      "cards": [
+        "spur"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "startle",
+      "page": "08",
+      "sourceEntry": "3:startle",
+      "cards": [
+        "startle"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "starve",
+      "page": "10",
+      "sourceEntry": "3:starve",
+      "cards": [
+        "starve"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "steer",
+      "page": "12",
+      "sourceEntry": "3:steer",
+      "cards": [
+        "steer"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "stern",
+      "page": "16",
+      "sourceEntry": "3:stern",
+      "cards": [
+        "stern"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "stimulate",
+      "page": "18",
+      "sourceEntry": "3:stimulate",
+      "cards": [
+        "stimulate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "stir",
+      "page": "10",
+      "sourceEntry": "3:stir",
+      "cards": [
+        "stir"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "stride",
+      "page": "12",
+      "sourceEntry": "3:stride",
+      "cards": [
+        "stride"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "stumble",
+      "page": "08",
+      "sourceEntry": "3:stumble",
+      "cards": [
+        "stumble"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "subordinate",
+      "page": "14",
+      "sourceEntry": "3:subordinate",
+      "cards": [
+        "subordinate"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "subsidy",
+      "page": "04",
+      "sourceEntry": "3:subsidy",
+      "cards": [
+        "subsidy"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "successive",
+      "page": "16",
+      "sourceEntry": "3:successive",
+      "cards": [
+        "successive"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "summit",
+      "page": "16",
+      "sourceEntry": "3:summit",
+      "cards": [
+        "summit"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "superstition",
+      "page": "16",
+      "sourceEntry": "3:superstition",
+      "cards": [
+        "superstition"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "supplement",
+      "page": "04",
+      "sourceEntry": "3:supplement",
+      "cards": [
+        "supplement"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "surge",
+      "page": "10",
+      "sourceEntry": "3:surge",
+      "cards": [
+        "surge"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "surpass",
+      "page": "18",
+      "sourceEntry": "3:surpass",
+      "cards": [
+        "surpass"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "swamp",
+      "page": "10",
+      "sourceEntry": "3:swamp",
+      "cards": [
+        "swamp"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "swarm",
+      "page": "10",
+      "sourceEntry": "3:swarm",
+      "cards": [
+        "swarm"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "tactic",
+      "page": "06",
+      "sourceEntry": "3:tactic",
+      "cards": [
+        "tactic"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "temptation",
+      "page": "04",
+      "sourceEntry": "3:temptation",
+      "cards": [
+        "temptation"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "toll",
+      "page": "12",
+      "sourceEntry": "3:toll",
+      "cards": [
+        "toll"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "tremble",
+      "page": "08",
+      "sourceEntry": "3:tremble",
+      "cards": [
+        "tremble"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "tribe",
+      "page": "16",
+      "sourceEntry": "3:tribe",
+      "cards": [
+        "tribe"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "trigger",
+      "page": "08",
+      "sourceEntry": "3:trigger",
+      "cards": [
+        "trigger"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "triumph",
+      "page": "16",
+      "sourceEntry": "3:triumph",
+      "cards": [
+        "triumph"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "turbulent",
+      "page": "08",
+      "sourceEntry": "3:turbulent",
+      "cards": [
+        "turbulent"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "turmoil",
+      "page": "08",
+      "sourceEntry": "3:turmoil",
+      "cards": [
+        "turmoil"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "twist",
+      "page": "12",
+      "sourceEntry": "3:twist",
+      "cards": [
+        "twist"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "undermine",
+      "page": "14",
+      "sourceEntry": "3:undermine",
+      "cards": [
+        "undermine"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "undo",
+      "page": "12",
+      "sourceEntry": "3:undo",
+      "cards": [
+        "undo"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "uphold",
+      "page": "06",
+      "sourceEntry": "3:uphold",
+      "cards": [
+        "uphold"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "vanish",
+      "page": "10",
+      "sourceEntry": "3:vanish",
+      "cards": [
+        "vanish"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "verge",
+      "page": "10",
+      "sourceEntry": "3:verge",
+      "cards": [
+        "verge"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "weird",
+      "page": "18",
+      "sourceEntry": "3:weird",
+      "cards": [
+        "weird"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "withstand",
+      "page": "10",
+      "sourceEntry": "3:withstand",
+      "cards": [
+        "withstand"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "worship",
+      "page": "16",
+      "sourceEntry": "3:worship",
+      "cards": [
+        "worship"
+      ]
+    },
+    {
+      "book": 3,
+      "label": "wrap",
+      "page": "10",
+      "sourceEntry": "3:wrap",
+      "cards": [
+        "wrap"
+      ]
+    }
+  ]
+}

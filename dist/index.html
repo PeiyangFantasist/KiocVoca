@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#ffffff"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="apple-mobile-web-app-title" content="KiocVoca">
+  <meta name="description" content="你的随身词库。乱序练习、近义联想、语义测试和间隔复习。">
+  <title>KiocVoca · 随身词库</title>
+  <link rel="icon" href="./icon.svg" type="image/svg+xml"><link rel="apple-touch-icon" href="./icon-192.png"><link rel="manifest" href="./manifest.webmanifest"><link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div id="app">
+ <header class="topbar">
+   <a href="#learn" class="brand" aria-label="KiocVoca 首页"><svg class="mark" viewBox="0 0 40 40" fill="none" aria-hidden="true"><path d="M5 7h7v12L24 7h10L20 21l15 13H24L12 23v11H5V7Z" fill="currentColor"/></svg><span>Kioc<i>Voca</i><small>VOCABULARY I · II · III</small></span></a>
+   <div class="top-actions"><span class="local-badge" id="offline-status"><span></span> 本机保存</span><button class="icon-button glass" id="settings-open" aria-label="设置与词库"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7"><path d="M4 7h16M4 17h16M8 3v8M16 13v8"/></svg></button></div>
+ </header>
+ <main id="main" tabindex="-1"><div class="loading">正在整理词库…</div></main>
+ <nav class="dock glass" aria-label="主导航">
+  <button data-page="learn" aria-label="乱序模式"><svg viewBox="0 0 24 24"><path d="M3 6h3c4 0 8 12 12 12h3M3 18h3c4 0 8-12 12-12h3M18 3l3 3-3 3M18 15l3 3-3 3"/></svg><span>乱序</span></button>
+  <button data-page="associate" aria-label="联想模式"><svg viewBox="0 0 24 24"><circle cx="6" cy="12" r="3"/><circle cx="18" cy="5" r="3"/><circle cx="18" cy="19" r="3"/><path d="m9 10 6-4M9 14l6 4"/></svg><span>联想</span></button>
+  <button data-page="quiz" aria-label="语义测试"><svg viewBox="0 0 24 24"><path d="M5 4h14v16H5zM9 9l2 2 4-4M9 16h6"/></svg><span>测试</span></button>
+  <button data-page="stats" aria-label="统计页面"><svg viewBox="0 0 24 24"><path d="M5 20V10M12 20V4M19 20v-7"/></svg><span>统计</span></button>
+ </nav>
+</div>
+<dialog id="sheet" class="sheet glass" aria-labelledby="sheet-title"><div id="sheet-content"></div></dialog>
+<div id="toast" role="status" aria-live="polite"></div>
+<script type="module" src="./app.js"></script>
+</body></html>
