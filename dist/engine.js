@@ -4,7 +4,7 @@ export function blankState() {
   return {version:1,turn:0,words:{},days:{},events:[],settings:{books:[1,2,3],theme:'system',goal:40},createdAt:Date.now()};
 }
 export const progress = (state,id) => state.words[id] || {seen:0,passed:0,streak:0,failed:0,lastSeen:0,lastTurn:-1,dueAt:0,deadline:0,modes:{}};
-export const weight = s => 2 ** -Math.min(5,Math.floor(s.streak / 5));
+export const weight = s => Math.max(Number.MIN_VALUE,2 ** -Math.floor(s.streak / 5));
 export const minGap = size => Math.max(0,Math.min(6,size-1));
 export function ready(word,state,size,now) {
   const s=progress(state,word.id);

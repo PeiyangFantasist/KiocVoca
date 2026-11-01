@@ -1,5 +1,5 @@
 from pathlib import Path
-import plistlib,uuid,hashlib,json,zipfile,math
+import plistlib,uuid,hashlib,json,zipfile,math,re
 from PIL import Image,ImageDraw
 ROOT=Path(__file__).resolve().parents[1]; DIST=ROOT/'dist'
 URL='https://peiyangfantasist.github.io/KiocVoca/'
@@ -21,7 +21,21 @@ profile={'PayloadType':'Configuration','PayloadVersion':1,'PayloadIdentifier':'a
            'PayloadUUID':uid('webclip'),'PayloadDisplayName':'KiocVoca','Label':'KiocVoca','URL':URL+'#learn','FullScreen':True,
            'IsRemovable':True,'Precomposed':True,'Icon':(DIST/'icon-192.png').read_bytes()}]}
 (DIST/'KiocVoca.mobileconfig').write_bytes(plistlib.dumps(profile,sort_keys=False))
+asset_hash=hashlib.sha256(b''.join((DIST/n).read_bytes() for n in ['app.js','engine.js','style.css','words.json'])).hexdigest()[:10]
+for p in DIST.iterdir():
+    if re.fullmatch(r'(?:main|scheduler|ui|words)-[0-9a-f]{10}\.(?:js|css|json)',p.name):p.unlink()
+entry=f'main-{asset_hash}.js';engine=f'scheduler-{asset_hash}.js';style=f'ui-{asset_hash}.css';words=f'words-{asset_hash}.json'
+(DIST/entry).write_text((DIST/'app.js').read_text(encoding='utf-8').replace("'./engine.js'",f"'./{engine}'").replace("'./words.json'",f"'./{words}'"),encoding='utf-8')
+(DIST/words).write_bytes((DIST/'words.json').read_bytes())
+(DIST/engine).write_bytes((DIST/'engine.js').read_bytes());(DIST/style).write_bytes((DIST/'style.css').read_bytes())
+html=(DIST/'index.html').read_text(encoding='utf-8')
+html=re.sub(r'href="\./(?:style|ui-[0-9a-f]{10})\.css"',f'href="./{style}"',html)
+html=re.sub(r'src="\./(?:app|main-[0-9a-f]{10})\.js"',f'src="./{entry}"',html)
+(DIST/'index.html').write_text(html,encoding='utf-8')
 content=''.join(hashlib.sha256(p.read_bytes()).hexdigest() for p in sorted(DIST.iterdir()) if p.name!='sw.js' and p.is_file())
 stamp=hashlib.sha256(content.encode()).hexdigest()[:12]
-(DIST/'sw.js').write_text((ROOT/'tools/sw-template.js').read_text(encoding='utf-8').replace('__HASH__',stamp),encoding='utf-8')
+worker=(ROOT/'tools/sw-template.js').read_text(encoding='utf-8').replace('__HASH__',stamp)
+worker=worker.replace("'./style.css'",f"'./{style}'").replace("'./app.js'",f"'./{entry}'").replace("'./engine.js'",f"'./{engine}'")
+worker=worker.replace("'./words.json'",f"'./{words}'")
+(DIST/'sw.js').write_text(worker,encoding='utf-8')
 print(json.dumps({'url':URL,'cacheVersion':stamp,'payloads':len(profile['PayloadContent']),'profileBytes':(DIST/'KiocVoca.mobileconfig').stat().st_size}))

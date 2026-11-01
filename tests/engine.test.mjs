@@ -27,7 +27,8 @@ test('five consecutive passes halve weight; ten quarter it; failure resets witho
 });
 test('extremely well-practiced words keep nonzero weight and a finite review deadline',()=>{
  let s=blankState();for(let i=0;i<60;i++)s=record(s,'halt',true,'learn',time+i);
- const p=progress(s,'halt');assert.equal(weight(p),1/32);assert(p.deadline-time<=14*DAY+60);assert(p.dueAt<=time+7*DAY+60);
+ const p=progress(s,'halt');assert.equal(weight(p),1/4096);assert(p.deadline-time<=14*DAY+60);assert(p.dueAt<=time+7*DAY+60);
+ assert(weight({streak:60})<weight({streak:55}));assert(weight({streak:10000})>0);
 });
 test('both elapsed time and intervening answers are required before repeat',()=>{
  const pool=data.words.slice(0,20);let s=record(blankState(),pool[0].id,true,'learn',time);
@@ -96,4 +97,21 @@ test('damaged backup counters and invalid schema are rejected',()=>{
 test('only spelling variants merge, while different derivations keep separate records',()=>{
  assert(data.words.find(w=>w.id==='catalog').variants.includes('catalogue'));
  for(const id of ['integral','integrity','integrate','convict','conviction','liable','liability','prevail','prevalent'])assert(data.words.some(w=>w.id===id));
+});
+test('versioned entry points reference existing, matching assets',()=>{
+ const html=readFileSync(new URL('../dist/index.html',import.meta.url),'utf8');
+ for(const match of html.matchAll(/(?:href|src)="\.\/(.+?)"/g)){
+  assert(readFileSync(new URL('../dist/'+match[1],import.meta.url)).length>0,match[1]);
+ }
+ const entry=html.match(/src="\.\/(main-[a-f0-9]+\.js)"/)[1];
+ const js=readFileSync(new URL('../dist/'+entry,import.meta.url),'utf8');
+ assert(js.includes('scheduler-'));assert(js.includes('words-'));
+ const sw=readFileSync(new URL('../dist/sw.js',import.meta.url),'utf8');assert(sw.includes(entry));
+ for(const p of js.matchAll(/'\.\/(scheduler-[a-f0-9]+\.js|words-[a-f0-9]+\.json)'/g)){
+  assert(sw.includes(p[1]));
+  const original=p[1].startsWith('scheduler-')?'engine.js':'words.json';
+  assert.deepEqual(readFileSync(new URL('../dist/'+p[1],import.meta.url)),readFileSync(new URL('../dist/'+original,import.meta.url)));
+ }
+ const css=html.match(/href="\.\/(ui-[a-f0-9]+\.css)"/)[1];
+ assert.deepEqual(readFileSync(new URL('../dist/'+css,import.meta.url)),readFileSync(new URL('../dist/style.css',import.meta.url)));
 });

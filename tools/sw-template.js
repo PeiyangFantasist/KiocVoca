@@ -19,7 +19,7 @@ self.addEventListener('activate',event=>event.waitUntil((async()=>{
 self.addEventListener('fetch',event=>{
   if(event.request.method!=='GET'||new URL(event.request.url).origin!==self.location.origin)return;
   if(event.request.mode==='navigate'){
-    event.respondWith(fetch(event.request).catch(async()=>await caches.match(new URL('./index.html',self.location))||new Response('首次使用请先联网。',{headers:{'content-type':'text/plain;charset=utf-8'}})));
+    event.respondWith(fetch(event.request).catch(async()=>await (await caches.open(CACHE)).match(new URL('./index.html',self.location))||new Response('首次使用请先联网。',{headers:{'content-type':'text/plain;charset=utf-8'}})));
   }else{
     event.respondWith((async()=>{
       const cache=await caches.open(CACHE),hit=await cache.match(event.request,{ignoreSearch:true});
