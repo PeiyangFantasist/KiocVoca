@@ -1,4 +1,4 @@
-import {blankState,progress,weight,choose,record,makeQuestion,shuffle,summarize,dayKey,validateState,DAY} from './scheduler-a2d0eef3a4.js';
+import {blankState,progress,weight,choose,record,makeQuestion,shuffle,summarize,dayKey,validateState,DAY} from './scheduler-f7220dbd1f.js';
 const $=s=>document.querySelector(s),KEY='kiocvoca-progress-v1';
 const icons={close:'<path d="m6 6 12 12M18 6 6 18"/>',arrow:'<path d="m14 6 6 6-6 6M4 12h16"/>',left:'<path d="m10 6-6 6 6 6M4 12h16"/>',sound:'<path d="M11 5 6 9H3v6h3l5 4V5ZM15 8a6 6 0 0 1 0 8M18 5a10 10 0 0 1 0 14"/>',info:'<circle cx="12" cy="12" r="9"/><path d="M12 11v6M12 7v1"/>'};
 const icon=name=>`<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${icons[name]||''}</svg>`;
@@ -9,6 +9,26 @@ let data,state,pool=[],page='learn',current=null,phase='question',options=[],cho
 let groupOrder=[],currentGroup=null,groupCount=0,tablePage=0,tableFilter='all',tableQuery='',timer,toastTimer,restoreFocus;
 const main=$('#main'),sheet=$('#sheet');
 let savingOK=true,offlineReady=false,storageWarned=false;
+let installURL=null,installPromise=null;
+function prepareInstall(){
+  if(installURL)return Promise.resolve(installURL);
+  if(!installPromise)installPromise=(async()=>{
+    const reply=await fetch('./KiocVoca.mobileconfig');if(!reply.ok)throw Error('安装文件暂不可用');
+    const bytes=await reply.arrayBuffer();
+    installURL=URL.createObjectURL(new Blob([bytes],{type:'application/x-apple-aspen-config'}));
+    return installURL;
+  })().catch(error=>{installPromise=null;throw error;});
+  return installPromise;
+}
+function wireInstallLinks(){
+  document.querySelectorAll('a[href="./KiocVoca.mobileconfig"]').forEach(link=>{
+    if(installURL){link.href=installURL;link.download='KiocVoca.mobileconfig';}
+    link.addEventListener('click',async e=>{
+      if(installURL)return;
+      e.preventDefault();try{await prepareInstall();wireInstallLinks();toast('安装文件已准备好，请再点一次下载。');}catch{toast('安装文件加载失败，请联网重试。');}
+    });
+  });
+}
 function toast(message){clearTimeout(toastTimer);$('#toast').textContent=message;$('#toast').classList.add('visible');toastTimer=setTimeout(()=>$('#toast').classList.remove('visible'),3200);}
 function save(){
   try{localStorage.setItem(KEY,JSON.stringify(state));savingOK=true;}
@@ -133,7 +153,7 @@ function renderTable(){
 function showSheet(title,body,bind=()=>{}){
   restoreFocus=document.activeElement;sheet.classList.remove('closing');
   $('#sheet-content').innerHTML=`<div class="sheet-inner"><div class="sheet-header"><h2 id="sheet-title">${title}</h2><button class="icon-button" id="sheet-close" aria-label="关闭">${icon('close')}</button></div>${body}</div>`;
-  if(!sheet.open)sheet.showModal();$('#sheet-close').onclick=closeSheet;bind();
+  if(!sheet.open)sheet.showModal();$('#sheet-close').onclick=closeSheet;bind();wireInstallLinks();
 }
 function closeSheet(){if(!sheet.open)return;sheet.classList.add('closing');setTimeout(()=>{sheet.close();sheet.classList.remove('closing');restoreFocus?.isConnected&&restoreFocus.focus();},180);}
 sheet.addEventListener('cancel',e=>{e.preventDefault();closeSheet();});sheet.addEventListener('click',e=>{const r=sheet.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)closeSheet();});
@@ -187,7 +207,8 @@ window.addEventListener('storage',e=>{if(e.key!==KEY||!e.newValue||!data)return;
 document.addEventListener('visibilitychange',()=>{if(!document.hidden&&data){status();if(page==='stats')renderStats();else if(!current)nextWord();}});
 async function start(){
   try{
-    const response=await fetch('./words-a2d0eef3a4.json');if(!response.ok)throw Error('词库加载失败');data=await response.json();
+    prepareInstall().catch(()=>{});
+    const response=await fetch('./words-f7220dbd1f.json');if(!response.ok)throw Error('词库加载失败');data=await response.json();
     let saved;try{saved=localStorage.getItem(KEY)||localStorage.getItem('openwords-progress-v1');}catch{savingOK=false;}
     try{state=saved?validateState(JSON.parse(saved),data.words.map(w=>w.id)):blankState();}
     catch{state=blankState();savingOK=false;main.innerHTML='<div class="empty"><h2>学习记录需要恢复</h2><p>本机记录格式异常，已保留原始数据。请先下载原始备份，再重新开始。</p><button class="text-button" id="rescue">下载原始备份</button><button class="text-button" id="restart">以新记录开始</button></div>';$('#rescue').onclick=()=>{const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([saved],{type:'application/json'}));a.download='KiocVoca-recovery.json';a.click();};$('#restart').onclick=()=>{save();refreshPool();theme();navigate('learn');};return;}

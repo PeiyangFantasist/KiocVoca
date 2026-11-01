@@ -45,4 +45,6 @@ npm run serve
 
 发布地址：https://peiyangfantasist.github.io/KiocVoca/ 。GitHub Pages 的工作流在每次推送后执行测试并部署 `dist`。脚本、样式和词库文件使用内容摘要作为文件名，避免离线缓存混用版本。
 
+GitHub 静态下载默认使用通用二进制类型。应用中的安装按钮会把同一份已验证的描述文件包装为 `application/x-apple-aspen-config` 的本机 Blob，Service Worker 也为描述文件响应设置该类型；不会上传文件到第三方转换服务。建议从 Safari 中的应用设置下载。不同 iOS 版本对安装提示的处理仍需实机确认；备用方式是 Safari“添加到主屏幕”。
+
 `engine.js`与页面解耦，随机源、时间均可注入做复现测试。`data/curation.txt`为人工编辑的简单释义/语义分组，`tools/build-data.py`在缺词、重复、缺中文释义、无效字符或覆盖不足时失败。

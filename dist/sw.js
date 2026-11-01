@@ -1,5 +1,5 @@
-const CACHE='kiocvoca-f8caffe43723';
-const FILES=['./','./index.html','./ui-a2d0eef3a4.css','./main-a2d0eef3a4.js','./scheduler-a2d0eef3a4.js','./words-a2d0eef3a4.json','./icon.svg','./icon-192.png','./icon-512.png','./manifest.webmanifest','./KiocVoca.mobileconfig'];
+const CACHE='kiocvoca-a1ec9f4ecaa4';
+const FILES=['./','./index.html','./ui-f7220dbd1f.css','./main-f7220dbd1f.js','./scheduler-f7220dbd1f.js','./words-f7220dbd1f.json','./icon.svg','./icon-192.png','./icon-512.png','./manifest.webmanifest','./KiocVoca.mobileconfig'];
 self.addEventListener('install',event=>event.waitUntil((async()=>{
   const cache=await caches.open(CACHE);
   for(const path of FILES){
@@ -7,7 +7,7 @@ self.addEventListener('install',event=>event.waitUntil((async()=>{
     const response=await fetch(request);
     if(!response.ok||new URL(response.url).origin!==self.location.origin)throw Error('Offline cache needs an authenticated response');
     if(path==='./index.html' && !(await response.clone().text()).includes('<title>KiocVoca'))throw Error('Not the application document');
-    if(path==='./words-a2d0eef3a4.json' && !(await response.clone().json()).words?.length)throw Error('Not the vocabulary data');
+    if(path==='./words-f7220dbd1f.json' && !(await response.clone().json()).words?.length)throw Error('Not the vocabulary data');
     await cache.put(request,response);
   }
   await self.skipWaiting();
@@ -18,6 +18,14 @@ self.addEventListener('activate',event=>event.waitUntil((async()=>{
 })()));
 self.addEventListener('fetch',event=>{
   if(event.request.method!=='GET'||new URL(event.request.url).origin!==self.location.origin)return;
+  if(new URL(event.request.url).pathname.endsWith('/KiocVoca.mobileconfig')){
+    event.respondWith((async()=>{
+      const cache=await caches.open(CACHE),source=await cache.match(event.request,{ignoreSearch:true})||await fetch(event.request);
+      const headers=new Headers(source.headers);headers.set('Content-Type','application/x-apple-aspen-config');
+      headers.set('Content-Disposition','attachment; filename="KiocVoca.mobileconfig"');
+      return new Response(await source.arrayBuffer(),{status:source.status,headers});
+    })());return;
+  }
   if(event.request.mode==='navigate'){
     event.respondWith(fetch(event.request).catch(async()=>await (await caches.open(CACHE)).match(new URL('./index.html',self.location))||new Response('首次使用请先联网。',{headers:{'content-type':'text/plain;charset=utf-8'}})));
   }else{

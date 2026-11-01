@@ -18,6 +18,14 @@ self.addEventListener('activate',event=>event.waitUntil((async()=>{
 })()));
 self.addEventListener('fetch',event=>{
   if(event.request.method!=='GET'||new URL(event.request.url).origin!==self.location.origin)return;
+  if(new URL(event.request.url).pathname.endsWith('/KiocVoca.mobileconfig')){
+    event.respondWith((async()=>{
+      const cache=await caches.open(CACHE),source=await cache.match(event.request,{ignoreSearch:true})||await fetch(event.request);
+      const headers=new Headers(source.headers);headers.set('Content-Type','application/x-apple-aspen-config');
+      headers.set('Content-Disposition','attachment; filename="KiocVoca.mobileconfig"');
+      return new Response(await source.arrayBuffer(),{status:source.status,headers});
+    })());return;
+  }
   if(event.request.mode==='navigate'){
     event.respondWith(fetch(event.request).catch(async()=>await (await caches.open(CACHE)).match(new URL('./index.html',self.location))||new Response('首次使用请先联网。',{headers:{'content-type':'text/plain;charset=utf-8'}})));
   }else{
